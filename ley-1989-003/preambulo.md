@@ -1,0 +1,5 @@
+Las Cortes de Castilla-La Mancha han aprobado, y yo, en nombre del Rey, promulgo la siguiente Ley:
+PREÁMBULO
+El artículo 35.6 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, atribuye a las Comunidades Autónomas la determinación de la capitalidad de los partidos judiciales, mediante norma con rango de Ley.
+La Ley 38/1988, de 28 de diciembre, de Demarcación y Planta Judicial, a la vez que establece el número y demarcación de los partidos judiciales en las provincias de Castilla-La Mancha, reitera en su artículo 4.4 que la capitalidad de los mismos se determinará por Ley de la Comunidad Autónoma, precisando que corresponderá a un solo municipio.
+Procede, en consecuencia, desarrollar las previsiones legales citadas para la efectividad de la nueva planta judicial, lo que se realiza por medio de la presente Ley, en la que se contiene la fijación concreta de la capitalidad de los partidos judiciales, según criterios de población del municipio, asentamiento histórico de órganos judiciales y dotación de las infraestructuras precisas para el servicio de justicia.
