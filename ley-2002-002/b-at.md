@@ -1,0 +1,2 @@
+Artículo tercero. Promoción pública.
+Tendrán la consideración de viviendas de promoción pública, aquellas viviendas con protección pública que, calificadas como tales por la Junta de Comunidades de Castilla-La Mancha, se incluyan en promociones desarrolladas sin ánimo de lucro por la misma, bien directamente o mediante convenio con cualquier Administración, por medio de patronatos o sociedades constituidas al efecto, con empresas mixtas con participación mayoritaria de entes públicos o con otras entidades de carácter público.
