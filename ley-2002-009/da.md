@@ -1,0 +1,2 @@
+Disposición adicional.
+Los agentes sociales representados en el Consejo dispondrán de los medios materiales que se destinen en los Presupuestos Generales de Castilla-La Mancha para el buen desarrollo de sus funciones y financiación de las actividades inherentes a su participación en este órgano consultivo. A tal fin se remitirá, antes del primero de junio, propuesta de gastos a la Consejería competente en materia de presupuestos.

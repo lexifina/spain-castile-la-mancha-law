@@ -1,0 +1,9 @@
+EL PRESIDENTE DE LA COMUNIDAD AUTÓNOMA DE CASTILLA-LA MANCHA
+Las Cortes de Castilla-La Mancha han aprobado y yo, en nombre del Rey, promulgo la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+I
+La Junta de Comunidades de Castilla-La Mancha, en virtud de lo dispuesto en el artículo 33.11 del Estatuto de Autonomía, y de acuerdo con lo previsto en el artículo 149.1.7.ª de la Constitución Española, asumió competencias de ejecución de la legislación laboral. Competencias que se hicieron plenamente efectivas por el Real Decreto 384/1995, de 10 marzo.
+Esta transmisión de competencias y facultades en materia de relaciones laborales supone, de acuerdo con lo establecido en el artículo 31.1.1.ª del Estatuto de Autonomía y con la doctrina del Tribunal Constitucional, el ejercicio, con plena responsabilidad y autonomía, de las facultades de dirección y tutela de los servicios correspondientes, así como las de dictar normas propias para la organización de esos servicios.
+La creación del Consejo Regional de Relaciones Laborales de Castilla-La Mancha supone la culminación, mediante su institucionalización, de los diversos foros de encuentro entre las organizaciones empresariales y los sindicatos que han venido desarrollándose desde la negociación de los diversos Pactos Industriales, hasta la firma de sendos Acuerdos Regionales por el Empleo.
+La necesidad de establecer cauces institucionales de encuentro y participación de los agentes sociales entre sí y de éstos con el Gobierno de Castilla-La Mancha, anima la promulgación de la presente Ley.
+El Consejo Regional de Relaciones Laborales de Castilla-La Mancha se constituye, además, como órgano consultivo de la Administración Autonómica, y entre sus fines cabe destacar el de fomento del diálogo social en Castilla-La Mancha, tal y como se recoge en el III Pacto Industrial, ratificado por los agentes socioeconómicos de la Región.
