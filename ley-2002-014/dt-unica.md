@@ -1,0 +1,3 @@
+Disposición transitoria única.
+Hasta que no se lleve a cabo el desarrollo reglamentario de la presente Ley, los Carnés de Artesano y los Títulos de Industria Artesana emitidos con anterioridad a la entrada en vigor de esta Ley por la Administración Regional de la Comunidad Autónoma de Castilla-La Mancha, conservarán su vigencia durante el tiempo por el que fueron emitidos, y en su caso, serán renovados conforme a la normativa anterior.
+En todo caso, cuando se dicte la normativa de desarrollo de esta Ley deberán los interesados solicitar el canje de los mismos por los carnés y títulos que se establecen en esta Ley.

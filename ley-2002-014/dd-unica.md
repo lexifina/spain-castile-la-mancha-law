@@ -1,0 +1,3 @@
+Disposición derogatoria única.
+1. Queda derogado el Decreto 82/1986, de 29 de julio, de Ordenación de la Artesanía («Diario Oficial de Castilla-La Mancha» número 33, de 19 de agosto).
+2. Hasta la aprobación de los desarrollos reglamentarios de esta Ley, conservarán su vigencia, en lo que no se opongan a la misma, la Orden de 22 de enero de 1987, por la que se aprobó el Repertorio de Oficios Artesanos, la Orden de 14 de abril de 1997, por la que se establecen las condiciones necesarias para la obtención de los documentos de calificación de Artesano, Maestro Artesano e Industria Artesana y la Orden de 12 de junio de 2000, por la que se establece la composición y funcionamiento de la Comisión de Artesanía de Castilla-La Mancha.
