@@ -1,0 +1,8 @@
+EL PRESIDENTE DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA
+Hago saber a todos los ciudadanos de la Región que las Cortes de Castilla-La Mancha han aprobado la Ley 1/1987, de 7 de abril, sobre el Consejo Asesor de Radio y Televisión Española en Castilla-La Mancha.
+Por consiguiente, al amparo del artículo 12.2 del Estatuto de Autonomía, aprobado por Ley Orgánica 9/1982, de 10 de agosto, en nombre del Rey promulgo y ordeno la publicación en el «Diario Oficial» de la Comunidad Autónoma y su remisión al «Boletín Oficial del Estado» de la siguiente ley:
+EXPOSICION DE MOTIVOS
+El artículo 14 de la Ley 4/1980, de 10 de enero, reguladora del Estatuto de la Radio y la Televisión, prevé la constitución en cada Comunidad Autónoma de un Consejo Asesor cuya composición habrá de determinarse por ley territorial.
+El Consejo se configura en la referida Ley como órgano de asistencia al Delegado territorial de RTVE en la Comunidad Autónoma y como representante de los intereses de esta última a través del cual han de estudiarse las necesidades regionales en el campo de la Radio y la Televisión.
+El Consejo Asesor formulara las recomendaciones oportunas para un mejor aprovechamiento de las capacidades de la comunidad en orden a una adecuada descentralización de los citados medios de comunicación social.
+La presente ley tiene por finalidad regular la composición del Consejo Asesor de Radio y Televisión española en Castilla-La Mancha, en cuanto órgano de dicho Ente Público Estatal y articular al propio tiempo la función del mismo en cuanto instrumento de participación y representación de los intereses de la Comunidad Autónoma castellano-manchega en RTVE.
