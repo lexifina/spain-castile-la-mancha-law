@@ -1,0 +1,4 @@
+Artículo 20 bis.
+1. La explotación de las carreteras comprende las operaciones de conservación y mantenimiento, las actuaciones encaminadas a la defensa de la vía y a su mejor uso, incluyendo las referentes a señalización, ordenación de accesos, y uso de las zonas de dominio público, de servidumbres y de afección.
+2. Las operaciones de conservación y mantenimiento incluyen todas las actuaciones necesarias para preservar en el mejor estado posible el patrimonio viario. Las actuaciones de defensa de la carretera incluyen las necesarias para evitar actividades que perjudiquen a la misma, a su función o la de sus zonas de influencia. Las actuaciones encaminadas al mejor uso de la carretera incluyen las destinadas a facilitar su utilización en condiciones de seguridad, fluidez y comodidad adecuadas.
+Se añade por el art. único.3 de la Ley 7/2002, de 9 de mayo. Ref. BOE-A-2002-14083
