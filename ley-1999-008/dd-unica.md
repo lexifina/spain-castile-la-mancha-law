@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta Ley y expresamente la Ley 2/1992, de 10 de diciembre, de Ordenación y Disciplina en materia turística y el punto 2, del artículo 1, y el párrafo tercero del apartado a) del artículo 5, del Decreto 2/1988, de 12 de enero, de Ordenación turística de las Agencias de Viajes.
