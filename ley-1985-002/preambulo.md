@@ -1,0 +1,7 @@
+EL PRESIDENTE DE LA JUNTA DE COMUNIDADES DE CASTILLA-LA MANCHA
+Hago saber a todos los ciudadanos de la región, que las Cortes de Castilla-La Mancha han aprobado la Ley de 8 de mayo de 1985, de Iniciativa Legislativa Popular y de los Ayuntamientos de Castilla-La Mancha.
+Por consiguiente, al amparo del artículo 12, número 2 del Estatuto de Autonomía, aprobado por Ley Orgánica 9/1982, de 10 de agosto, en nombre del Rey, promulgo y ordeno la publicación en el «Diario Oficial de la Comunidad Autónoma» y su remisión al «Boletín Oficial del Estado» la siguiente
+LEY DE INICIATIVA LEGISLATIVA POPULAR Y DE LOS AYUNTAMIENTOS DE CASTILLA-LA MANCHA
+EXPOSICIÓN DE MOTIVOS
+El Estatuto de Autonomía de Castilla-La Mancha dispone en su artículo 12.1, que por Ley de las Cortes de Castilla-La Mancha se regulará el ejercicio de la iniciativa legislativa popular y de las Corporaciones Locales en el marco de la Ley Orgánica prevista en el artículo 87.3, de la Constitución, en cuyo cumplimiento la Ley Orgánica 3/1984, de 26 de marzo, ha venido a ordenar y canalizar el ejercicio de la iniciativa legislativa popular con las debidas garantías.
+En consecuencia, procede ahora cumplir con la disposición contenida en el citado artículo 12.1 del Estatuto de Autonomía, atendiendo, dentro de la inspiración del texto constitucional, al establecimiento de los cauces que hagan posible la participación de los ciudadanos y de los Ayuntamientos en el proceso legislativo regional.
