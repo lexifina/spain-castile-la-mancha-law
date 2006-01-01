@@ -1,0 +1,2 @@
+Disposición transitoria. Compensaciones a favor del sector del transporte de mercancías y pasajeros por carretera.
+Durante el ejercicio 2006, el Gobierno regional adoptará las medidas pertinentes para minimizar los posibles efectos que sobre los costes pueda tener el tipo autonómico del Impuesto sobre las Ventas Minoristas de determinados Hidrocarburos en el sector del transporte de mercancías y pasajeros por carretera de Castilla-La Mancha, mediante un régimen de ayudas.
