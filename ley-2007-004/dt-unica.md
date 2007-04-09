@@ -1,0 +1,2 @@
+Disposición transitoria única. Proyectos sometidos al trámite de Evaluación del Impacto Ambiental, antes de la entrada en vigor de esta ley.
+A los proyectos sometidos al trámite de Evaluación del Impacto Ambiental antes de la entrada en vigor de esta ley, se les aplicará la legislación vigente en el momento de presentación de la solicitud. No obstante el promotor podrá solicitar su tramitación de acuerdo a esta ley.
