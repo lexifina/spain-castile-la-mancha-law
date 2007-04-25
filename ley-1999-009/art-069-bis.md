@@ -1,0 +1,4 @@
+Artículo 69 bis. Medidas de protección sanitaria.
+1. Cuando se detecte la existencia de epizootias o de enfermedades contagiosas para las personas, animales domésticos o fauna silvestre, así como episodios de envenenamiento, la Consejería competente adoptará las medidas necesarias, que podrán llevar aparejadas suspensiones temporales, limitaciones o prohibiciones en el ejercicio de las actividades afectadas, incluidas las cinegéticas, de pesca y piscicultura.
+2. Los responsables sanitarios locales, las personas titulares de aprovechamientos, sus vigilantes o cualquier persona que tenga conocimiento de ello deberán comunicar de forma inmediata la existencia de síntomas de epizootias o de enfermedades contagiosas, así como la aparición de cebos, aparentemente envenenados, o especímenes presuntamente afectados por los mismos.
+Se añade por el art. único.11 de la Ley 8/2007, de 15 de marzo. Ref. BOE-A-2007-10027.
