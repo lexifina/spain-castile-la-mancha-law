@@ -1,0 +1,2 @@
+Disposición transitoria única. Subrogación.
+La empresa pública podrá subrogarse en la posición de la Administración en los convenios sucritos por ésta y en los expedientes de contratación iniciados, adjudicados o en trámite de ejecución con anterioridad a su constitución, siempre que el objeto de los mismos esté comprendido dentro de su objeto social. De dicha subrogación se dará traslado a las Cortes de Castilla-La Mancha.
