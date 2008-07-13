@@ -1,0 +1,4 @@
+Disposición transitoria única. Proceso constituyente.
+1. La Comisión Gestora designada por la Junta Directiva de la Asociación de Dietistas-Nutricionistas de Castilla-La Mancha elaborará el proyecto de Estatutos de la Asamblea Constituyente y la convocará en el plazo de seis meses, contados desde la entrada en vigor de la presente Ley.
+La convocatoria se publicará en el Diario Oficial de Castilla-La Mancha y en uno de los periódicos de mayor difusión en la región, pudiendo participar en la misma todos los profesionales titulados incluidos en el ámbito personal definido en el artículo 5 que tengan su domicilio profesional único o principal en Castilla-La Mancha.
+2. Corresponderá a la Asamblea Constituyente ratificar la gestión realizada por la Comisión Gestora en cumplimiento del mandato realizado en el apartado anterior, aprobar los Estatutos del Colegio y proceder a la elección de los miembros de sus órganos de gobierno.
