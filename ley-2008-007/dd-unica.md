@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente Ley y expresamente los artículos 117, 118, 119, 120 y 121 de la Ley 9/1985, de 18 de diciembre, de tasas de la Comunidad Autónoma de Castilla-La Mancha, vigentes según lo dispuesto en la Disposición Transitoria primera de la Ley 3/1990, de 18 de mayo, de tasas y exacciones parafiscales de Castilla-La Mancha.
