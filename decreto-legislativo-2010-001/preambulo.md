@@ -1,0 +1,6 @@
+EXPOSICIÓN DE MOTIVOS
+La Ley 2/2009, de 14 de mayo, de Medidas Urgentes en Materia de Vivienda y Suelo, en su Disposición Final Segunda, autoriza al Consejo de Gobierno para que, en el plazo de un año desde su entrada en vigor, elabore y apruebe un texto único del Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística que incorpore las modificaciones introducidas en él por esta Ley.
+Esta autorización tiene amparo legal en la facultad de delegación legislativa que se contempla en el artículo 9.2 a) del Estatuto de Autonomía de Castilla-La Mancha, aprobado por Ley Orgánica 9/1982, de 10 de agosto.
+La autorización otorgada al Consejo de Gobierno para la refundición de los textos legales comprende la regularización, aclaración y armonización de las disposiciones legales objeto de la misma.
+En su virtud, a propuesta de la Consejería de Ordenación del Territorio y Vivienda, oído el Consejo Consultivo de Castilla-La Mancha y previa deliberación del Consejo de Gobierno, en su reunión del día 18 de mayo de 2010.
+DISPONGO:
