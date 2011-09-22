@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 22 de septiembre de 2011, por la disposición derogatoria única 1.c) y 2.c) de la Ley 4/2011, de 10 de marzo. Ref. BOE-A-2011-7752, salvo los arts. 4 y 5 que se mantienen vigentes con rango reglamentario hasta que entren en vigor las normas de desarrollo de la citada ley.
