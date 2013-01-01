@@ -1,0 +1,2 @@
+Disposición adicional única. Relaciones entre la Consejería de Hacienda y los órganos y entidades del ámbito subjetivo.
+La relación de la Consejería de Hacienda con las entidades del artículo 2.1.b) se llevará a cabo a través de los órganos del artículo 2.1.a) a los que estén adscritos. En el caso de las universidades públicas de Castilla-La Mancha, dicha relación se llevará a cabo a través de la consejería competente en materia de universidades.
