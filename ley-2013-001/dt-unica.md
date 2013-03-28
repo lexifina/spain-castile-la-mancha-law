@@ -1,0 +1,3 @@
+Disposición transitoria única. Régimen transitorio.
+1. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de la presente ley se regirán por la normativa anterior que les resultase de aplicación, salvo que el interesado desistiese del procedimiento iniciado de conformidad con los artículos 90 y 91 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+2. Las ordenanzas municipales reguladoras de la comunicación previa con anterioridad a la entrada en vigor de esta ley deberán adaptar su régimen a lo dispuesto en la misma, resultando de directa aplicación.
