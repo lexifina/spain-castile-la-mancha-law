@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Queda derogada la Ley 5/1993, de 27 de diciembre, de la Sindicatura de Cuentas de Castilla-La Mancha y el Reglamento de Organización y Funcionamiento de la Sindicatura de Cuentas de Castilla-La Mancha aprobado por las Cortes de Castilla-La Mancha por acuerdo de 26 de febrero de 2009, así como cuantas normas de igual o inferior rango se opongan a lo dispuesto en la presente ley.
