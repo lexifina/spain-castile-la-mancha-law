@@ -1,0 +1,4 @@
+Disposición transitoria decimoquinta. Régimen transitorio de los programas de carácter temporal aprobados con anterioridad a la entrada en vigor de la Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha para 2015.
+1. Lo previsto en los apartados Uno y Dos de la disposición final cuarta de la Ley de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha para 2015, por los que se modifican los artículos 8.1.c) y 10 de esta ley, será de aplicación a los programas de carácter temporal que se aprueben a partir del 1 de enero de 2015.
+2. Los programas de carácter temporal aprobados con anterioridad al 1 de enero de 2015 se continuarán rigiendo por la normativa vigente en la fecha de su aprobación.
+Se añade por la disposición final 4.5 de la Ley 10/2014, de 18 de diciembre. Ref. BOE-A-2015-1629
