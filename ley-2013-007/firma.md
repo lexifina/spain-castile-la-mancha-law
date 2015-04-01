@@ -9,7 +9,7 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 010422 | JXD | Autorización de transferencia total o parcial de la explotación durante el plazo de duración de los compromisos agroambientales. | 6 meses | Normativa Comunitaria Supraestatal y protección medio ambiente. | Consejería de Agricultura.Dirección General de Infraestructuras y Desarrollo Rural.
 040115 | JHS | Solicitud de inscripción en el registro comunitario de las denominaciones de origen protegidas y de las indicaciones geográficas protegidas de productos agrícolas y alimenticios. | 6 meses | Normativa Comunitaria Supraestatal. | Consejería de Agricultura.Dirección General de Infraestructuras y Desarrollo Rural.
 010413 | JWN | Concentración parcelaria de carácter privado (procedimiento ordinario y procedimiento simplificado). | 6 meses | Buena fe en transacciones privadas. | Consejería de Agricultura.Dirección General de Infraestructuras y Desarrollo Rural.
-010203 | JF6 | Aprobación plan técnico de caza. | 3 meses | Protección del medioambiente. | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
+010203 | JF6 | (DEROGADO). |  |  | 
 010214 | JKV | Concesión de cotos de pesca a sociedades colaboradoras. | 1 mes | Protección del Medio ambiente. | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
 010238 | JFQ | Autorización de actividades y usos en montes demaniales. | 3 meses | Protección del medio ambiente y dominio público. | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
 010243 | 244 | Autorización de actividades y usos de ocupación temporal de vías pecuarias. | 3 meses | Protección del medioambiente y dominio público. | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
@@ -77,10 +77,11 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 040073 | J8P | Otorgamiento de banderas y aprobación de escudos heráldicos de municipios. | 9 meses | Patrimonio histórico y nacional. | Consejería de Presidencia y Administraciones Públicas. Dirección General de Coordinación y Administración Local.
 040077 | E98 | Declaración de urgente ocupación de bienes y derechos afectados por expropiación forzosa en expedientes instruidos por corporaciones locales. | 9 meses | Orden público. | Consejería de Presidencia y Administraciones Públicas. Dirección General de Coordinación y Administración Local.
 010042 | I6C | Autorización de instalación de oficinas de farmacia. | 9 meses | Planificación de salud pública y protección de derechos de los destinatarios de los servicios. | Consejería de Sanidad y Asuntos Sociales. Dirección General de Calidad, Planificación, Ordenación e Inspección.
+Se deroga en la letra A), el número de procedimiento e identificacion de trámites 010203 JF6 por la disposición derogatoria.Uno de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd
 ANEXO II
 Procedimientos con silencio administrativo estimatorio
 Número de procedimiento | Identificación de trámites | Nombre procedimiento | Plazo | Órgano
-010198 | JG9 | Autorización de caza en el interior de cerramientos especiales. | 1 mes | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
+010198 | JG9 | (DEROGADO). |  | 
 010252 | E19 | Autorización de veterinarios para la expedición de certificados o documentos de acompañamiento. | 2 meses | Consejería de Agricultura.Dirección General de Agricultura y Ganadería.
 010414 | JWQ, JWO, JWR | Autorización de movimientos de cuotas lácteas: transferencias, cesiones temporales y trasvases. | 6 meses | Consejería de Agricultura. Dirección General de Agricultura y Ganadería.
 010420 | JXB | Autorización de mataderos para el sacrificio de animales procedentes de campañas de saneamiento ganadero. | 1 mes | Consejería de Agricultura. Dirección General de Agricultura y Ganadería.
@@ -91,7 +92,7 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 020124 | 698 | Inscripción en el registro de embotelladores y envasadores de vino de Castilla-La Mancha. | 4 meses | Consejería de Agricultura. Dirección General de Infraestructura y Desarrollo Rural.
 020125 | 720 | Registro de sociedades agrarias de transformación (SAT). | 6 meses | Consejería de Agricultura. Dirección General de Infraestructura y Desarrollo Rural.
 020126 | J6Q | Registro de entidades de control de productos agroalimentarios de Castilla-La Mancha. | 6 meses | Consejería de Agricultura. Dirección General de Infraestructura y Desarrollo Rural.
-010200 | JF4 | Autorización de monterías, ganchos etc., contenidas en el plan técnico de caza (PTC). | 10 días | Consejería de Agricultura.Dirección General de Montes y Espacios Naturales.
+010200 | JF4 | (DEROGADO). |  | 
 040123 | JFP | Amojonamiento de montes demaniales. | 6 meses | Consejería de Agricultura. Dirección General de Montes y Espacios Naturales.
 010076 | IIX | Autorización de carteles informativos o publicitarios. | 2 meses | Consejería de Fomento. Dirección General de Carreteras.
 010335 | J4X | Autorización de cerramientos próximos a carreteras de la red autonómica. | 4 meses | Consejería de Fomento. Dirección General de Carreteras.
@@ -113,5 +114,6 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 040191 | J6H | Renovación de la certificación técnico sanitaria de transporte sanitario por carretera. | 2 meses | Consejería de Sanidad y Asuntos Sociales. Dirección General de Calidad, Planificación, Ordenación e Inspección.
 040228 | J6J | Consulta previa de la certificación técnico sanitario del transporte sanitario por carretera. | 1 mes | Consejería de Sanidad y Asuntos Sociales. Dirección General de Calidad, Planificación, Ordenación e Inspección.
 040188 | C25 | Acreditación de las entidades colaboradoras de adopción internacional. | 4 meses | Consejería de Sanidad y Asuntos Sociales. Dirección General de la Familia, Menores, Promoción Social y Voluntariado.
+Se derogan los números de procedimiento e identificacion de trámites 010198 JG9 y 010200 JF4 por la disposición derogatoria.Uno de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd
 Información relacionada
 Téngase en cuenta que el Consejo de Gobierno podrá modificar el sentido del silencio administrativo, así como la duración de los procedimientos inferiores a seis meses, por Decreto publicado únicamente en el "Diario Oficial de Castilla-La Mancha", según se establece en la disposición final 2 de la presente norma.
