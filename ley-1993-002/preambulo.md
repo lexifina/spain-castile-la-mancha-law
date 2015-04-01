@@ -1,1 +1,1 @@
-Incluye la corrección de erratas publicada en BOCM núm. 72, de 1 de octubre de 1993.
+Norma derogada por la disposición derogatoria.1 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd.
