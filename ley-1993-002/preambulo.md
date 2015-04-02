@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria.1 de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd.
