@@ -1,0 +1,3 @@
+Artículo 346 bis Exenciones.
+Quedarán exentos del pago de la tasa por expedición de la tarjeta sanitaria en caso de robo, rotura o extravío, los usuarios exentos de aportación, Código TSI 001, conforme establece la disposición final séptima del Real Decreto-ley 16/2012, de 20 de abril, de medidas urgentes para garantizar la sostenibilidad del Sistema Nacional de Salud y mejorar la calidad y seguridad de sus prestaciones que modifica el Real Decreto 1718/2010, de 17 de diciembre, sobre receta médica y órdenes de dispensación.
+Se añade por el art. 12.45 de la Ley 3/2016, de 5 de mayo. Ref. BOE-A-2016-6725
