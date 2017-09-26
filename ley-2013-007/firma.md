@@ -66,6 +66,7 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 120014 | ISG | Acceso, traslado voluntario y permutas entre centros de atención a personas con discapacidad física. | 6 meses | Protección de derechos de los destinatarios de los servicios y lucha contra el fraude. Salud pública. | Consejería de Sanidad y Asuntos Sociales. Dirección General de Mayores, Personas con Discapacidad y Dependientes.
 120027 | I33 | Estancias diurnas en centros gerontológicos de la red pública de Castilla-La Mancha. | 6 meses | Protección de derechos de los destinatarios de los servicios y lucha contra el fraude. Salud pública. | Consejería de Sanidad y Asuntos Sociales. Dirección General de Mayores, Personas con Discapacidad y Dependientes.
 120040 | JX5 | Acceso al servicio de teleasistencia. | 3 meses | Protección de derechos de los destinatarios de los servicios y lucha contra el fraude. | Consejería de Sanidad y Asuntos Sociales. Dirección General de Mayores, Personas con Discapacidad y Dependientes.
+010070 | D22 | Tarjeta de estacionamiento para personas con discapacidad y movilidad reducida. | 3 meses | Protección de derechos de los destinatarios de los servicios y lucha contra el fraude. | Consejería de Bienestar Social. Dirección General de Mayores y Personas con Discapacidad.
 B) Procedimientos con silencio administrativo desestimatorio y plazo de resolución superior a seis meses.
 Número de procedimiento | Identificación de trámites | Nombre procedimiento | Plazo | Justificación | Órgano
 010244 | 248 | Autorización de modificación del trazado de vías pecuarias. | 1 año | Protección del medio ambiente y dominio público. | Consejería de Agricultura.Dirección General de Montes y Espacios Naturales.
@@ -77,6 +78,7 @@ Número de procedimiento | Identificación de trámites | Nombre procedimiento |
 040073 | J8P | Otorgamiento de banderas y aprobación de escudos heráldicos de municipios. | 9 meses | Patrimonio histórico y nacional. | Consejería de Presidencia y Administraciones Públicas. Dirección General de Coordinación y Administración Local.
 040077 | E98 | Declaración de urgente ocupación de bienes y derechos afectados por expropiación forzosa en expedientes instruidos por corporaciones locales. | 9 meses | Orden público. | Consejería de Presidencia y Administraciones Públicas. Dirección General de Coordinación y Administración Local.
 010042 | I6C | Autorización de instalación de oficinas de farmacia. | 9 meses | Planificación de salud pública y protección de derechos de los destinatarios de los servicios. | Consejería de Sanidad y Asuntos Sociales. Dirección General de Calidad, Planificación, Ordenación e Inspección.
+Se añade en el letra A), el número de procedimiento e identificacion de trámites 010070 D22 por el art. 11 de la Ley 3/2017, de 1 de septiembre. Ref. BOE-A-2017-11784#a1-3
 Se deroga en la letra A), el número de procedimiento e identificacion de trámites 010203 JF6 por la disposición derogatoria.Uno de la Ley 3/2015, de 5 de marzo. Ref. BOE-A-2015-6877#dd
 ANEXO II
 Procedimientos con silencio administrativo estimatorio
