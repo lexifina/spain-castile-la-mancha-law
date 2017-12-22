@@ -1,0 +1,2 @@
+Disposición adicional. Personal.
+El personal que a la entrada en vigor de la presente Ley se encuentre al servicio de las Cámaras Oficiales de Comercio, Industria y Servicios de Castilla-La Mancha o del Consejo de Cámaras Oficiales de Comercio, Industria y Servicios de Castilla-La Mancha, al amparo del Decreto de 13 de junio de 1936, se regirá, sin distinción, por la legislación laboral vigente aplicable al resto del personal al servicio de las mismas.
