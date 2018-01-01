@@ -106,8 +106,9 @@ Trámites y servicios administrativos | Tarifas – Euros
 2.8.1 De renovación autorización permanente | 1.000
 2.8.2 Modificaciones no sustanciales de homologaciones | 200
 3. Otros Servicios | 
-3.1 Baja en el registro de interdicción de acceso al juego | 30
+3.1 (Sin contenido) | 30
 3.2 Expedición de certificados | 5
 3.3 Expedición de duplicados | 5
 3.4 Combinaciones aleatorias | 20
 3.5 Otras declaraciones responsables | 20
+Se deja sin contendo el punto 3.1 por la disposición final 3 de la Ley 7/2017, de 21 de diciembre. Ref. BOE-A-2018-989
