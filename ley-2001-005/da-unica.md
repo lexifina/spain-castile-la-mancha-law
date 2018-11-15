@@ -1,2 +1,0 @@
-Disposición adicional única.
-Los datos personales de todo tipo que figuren en el informe al que se refiere el artículo 11 de esta Ley no podrán ser incluidos en fichero, ni ser tratados ni cedidos, en los términos que para estos conceptos establece el artículo 3 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, cuyos preceptos deberán ser siempre respetados en aplicación de esta Ley.
