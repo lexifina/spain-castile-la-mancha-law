@@ -1,0 +1,3 @@
+Disposición transitoria. Plazo de inscripción.
+1. En el plazo de seis meses, a contar desde el día siguiente a la entrada en vigor de esta ley, las academias válidamente constituidas con anterioridad a la entrada en vigor de la presente ley que tengan su domicilio social y desarrollen su actividad corporativa principal en el ámbito territorial de Castilla-La Mancha, habrán de solicitar su inscripción en el Registro de Academias.
+2. Transcurrido el plazo previsto en el apartado anterior, las academias a que se refiere el mismo que no cumplan la obligación de inscripción no podrán gozar de los derechos y beneficios contemplados en la presente ley.
