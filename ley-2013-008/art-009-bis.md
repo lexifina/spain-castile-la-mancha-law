@@ -1,0 +1,8 @@
+Artículo 9 bis. Deducción por arrendamiento de vivienda habitual vinculado a determinadas operaciones de dación en pago.
+1. Los contribuyentes podrán deducirse de la cuota íntegra autonómica el 15 por 100 de las cantidades satisfechas durante el ejercicio correspondiente por el arrendamiento de la vivienda habitual situada en Castilla-La Mancha y que constituya su residencia habitual, con un máximo de 450 euros, siempre que se cumplan los siguientes requisitos:
+a) Que el contrato de arrendamiento esté vinculado a una operación de adjudicación de la vivienda habitual en pago de la totalidad de la deuda pendiente del préstamo o crédito garantizados mediante hipoteca de la citada vivienda.
+b) Que la suma de la base imponible general y de la base imponible del ahorro del contribuyente menos el mínimo por descendientes, no supere la cuantía de 12.500 euros en tributación individual o de 25.000 euros en tributación conjunta.
+c) Que en la autoliquidación del Impuesto sobre la Renta de las Personas Físicas se consigne el número de identificación fiscal del arrendador de la vivienda.
+2. El concepto de vivienda habitual será el fijado por la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas vigente a la fecha del devengo del impuesto.
+3. El límite de esta deducción se prorrateará por el número de días en los que permanezca vigente el arrendamiento dentro del periodo impositivo y, además, cuando dos o más contribuyentes declarantes del impuesto tengan derecho a la aplicación de esta deducción por una misma vivienda, el límite se prorrateará entre ellos a partes iguales.
+Se añade por el art. 2.4 de la Ley 1/2022, de 14 de enero. Ref. BOE-A-2022-4919#a2
