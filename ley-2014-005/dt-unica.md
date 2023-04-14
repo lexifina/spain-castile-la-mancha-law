@@ -1,2 +1,0 @@
-Disposición transitoria única. Expedientes anteriores a la entrada en vigor de esta ley.
-Los expedientes que se hubieran iniciado con anterioridad a la entrada en vigor de la presente ley se resolverán conforme a la misma; no obstante, en lo que se refiere al cumplimiento de los requisitos exigidos a los interesados, será de aplicación la normativa que estuviera vigente en el momento de presentar la solicitud.
