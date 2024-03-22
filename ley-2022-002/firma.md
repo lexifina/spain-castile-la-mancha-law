@@ -99,7 +99,7 @@ f) La determinación de la conductividad se efectuará según la norma UNE-EN 27
 g) La determinación de los metales mercurio, cadmio, plomo, aluminio, cromo, cobre, níquel y zinc se efectuará según la normativa UNE por espectrometría de absorción atómica o ICP.
 h) No obstante, podrán utilizarse otras técnicas distintas a las que figuran en los apartados anteriores siempre que se encuentren recogidas en los procedimientos analíticos UNE, NF, DIN, EN, ASN, ISO, APHA-AWWA-WPCF, o en cualquier otra que esté reconocida internacionalmente.
 ANEXO 4
-Fórmula para el cálculo del coeficiente de contaminación del canon de depuración.
+Fórmula para el cálculo del coeficiente de contaminación del canon de depuración
 El coeficiente de contaminación del canon de depuración será un número K, de cuatro decimales, que resultará de la adición de otros dos coeficientes k1 y k2.
 K = k1 + k2
 K = Coeficiente de contaminación.
@@ -111,17 +111,22 @@ DQO = Demanda Química de Oxígeno en mg/l.
 NTK = Nitrógeno orgánico y amoniacal en mg/l.
 PT = Fósforo total en mg/l.
 Y para k2:
-Cond = Conductividad de entrada a la estación de tratamiento en μS/cm.
-MI = Materia inhibidora de entrada a la estación de tratamiento en Equitox/l.
-MP = Metales pesados de entrada a la estación de tratamiento en mg/l.
+Cond = Conductividad de entrada a la estación de tratamiento en μS/cm. La conductividad se aplicará únicamente cuando el promedio de los resultados de las muestras analizadas durante el periodo de devengo supere el valor de 4.000 μS/cm.
+MI = Materia inhibidora de entrada a la estación de tratamiento en Equitox/m3.
+Mp = Metales pesados de entrada a la estación de tratamiento en mg/l.
 Donde:
-MP = Hg + Cd + Pb + Al + Cr + Cu + Ni + Zn + Fe
-Hg = Mercurio total en mg/l.
-Cd = Cadmio total en mg/l.
-Pb = Plomo total en mg/l.
-Al = Aluminio total en mg/l.
-Cr = Cromo total en mg/l.
-Cu = Cobre total en mg/l.
-Ni = Níquel total en mg/l.
-Zn = Zinc total en mg/l.
-Fe = Hierro total en mg/l.
+Mpi = Concentración de metal pesado i de entrada a la estación de tratamiento en mg/l.
+Cdmi = Concentración diaria máxima del metal pesado i en mg/l.
+Cmaxi = Concentración instantánea máxima del metal pesado i en mg/l.
+Siendo los valores diarios e instantáneos máximos de cada metal pesado los siguientes:
+Metal pesado i | Cmd (mg/l) | Cmax (mg/l)
+Aluminio total. | 10 | 20
+Cadmio total. | 0,3 | 0,5
+Cobre total. | 1,2 | 2,4
+Cromo total. | 0,5 | 1
+Mercurio total. | 0,05 | 0,1
+Níquel total. | 2 | 4
+Plomo total. | 0,5 | 1
+Zinc total. | 3 | 6
+Hierro total. | 5 | 10
+Se modifica por el art. 25.11 de la Ley 1/2024, de 15 de marzo. Ref. BOE-A-2024-10149
