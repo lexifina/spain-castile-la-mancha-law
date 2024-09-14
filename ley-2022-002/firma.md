@@ -61,7 +61,8 @@ Diámetro del contador (mm) | Número de abonados asignados
 ≥ 125 | 300
 Para valores intermedios de diámetros nominales se tomará el valor inferior correspondiente.
 No obstante, si las viviendas, oficinas o locales abastecidos a partir de contadores colectivos, disponen a su vez de contador individual o contrato de suministro, la parte fija de la cuota únicamente se repercutirá en los contadores individuales.
-2. La parte variable de la cuota se determinará según lo establecido en el artículo 54 tomando «n» el valor obtenido de multiplicar por 2 el número de abonados resultante de la aplicación del punto anterior. En estos supuestos no será aplicable lo establecido en el artículo 71.
+2. La parte variable de la cuota se determinará según lo establecido en el artículo 54, ampliando los tramos de volumen de la tabla del artículo 54.2, de manera proporcional al número de abonados asignados al contador colectivo.
+Se modifica el punto 2 por el art. único.19 de la Ley 5/2024, de 6 de septiembre. Ref. BOE-A-2025-4170
 ANEXO 3
 Tipo de gravamen de la parte variable de la cuota en la modalidad de carga contaminante para usos no domésticos.
 1. La parte variable de la cuota en la modalidad por carga contaminante será el resultado de sumar una cuota general y una cuota especial, que se calcularán de la siguiente manera:
@@ -76,19 +77,19 @@ Materias inhibidoras (MI). | e = 0,01 €/Equitox
 Conductividad eléctrica (CE). | f = 3,524 €/m3 S/cm
 Metales pesados (MP). | g = 7,34 €/kg equimetal
 2. La parte variable total de la cuota vendrá expresada en euros, y será producto de la aplicación de la siguiente fórmula:
-CVC = 0,05 · Ve + (a · MES + b · DQO + c · NT + d · PT + e · MI + f · CE + g · MP) · Vs
+CVC = 0,05 · Ve + (a · MES + b · DQO + c · NT + d · PT + e · MI + f · CE +g · MP) · Vs
 Donde:
-CVC = Parte variable total de la cuota en la modalidad de carga contaminante, en euros.
-Ve = Volumen total de agua consumido o utilizado, en m3.
-Vs = Volumen total de agua vertido (o consumido, véase artículo 48), en m3.
-MES = concentración media de materia en suspensión, expresada en kg/m3.
-DQO = concentración media de DQO, expresada en kg/m3.
-NT = concentración media del vertido en nitrógeno total Kjeldhal, en kg/m3.
-PT = concentración media de fósforo total, expresada en kg/m3.
-MI = concentración media de materias inhibidoras, expresada en Equitox/m3.
-CE = conductividad eléctrica media del vertido a 20.º, expresada en S/cm.
-MP = la suma de las concentraciones existentes en el agua de los siguientes metales, expresadas en kg/m3: mercurio Hg, cadmio Cd, plomo Pb, aluminio Al, cromo Cr, cobre Cu, níquel Ni y zinc Zn, afectadas cada una de ellas por un coeficiente en función de su peligrosidad potencial, de acuerdo con la siguiente expresión:
-Equimetal (kg/m3) = 200Hg + 40Cd + 40Pb + 10Al + 4Cr + 2Cu + 2Ni + Zn + Fe
+CVC =Parte variable total de la cuota en la modalidad de carga contaminante, en euros.
+Ve = Volumen total de agua consumido o utilizado, en m³
+Vs = Volumen total de agua vertido (o consumido, véase artículo 48), en m³
+MES = concentración media de materia en suspensión, expresada en kg/m³
+DQO = concentración media de DQO, expresada en kg/m³
+NT = concentración media del vertido en nitrógeno total Kjeldhal, en kg/m³
+PT = concentración media de fósforo total, expresada en kg/m³
+MI = concentración media de materias inhibidoras, expresada en Equitox/m³
+CE = conductividad eléctrica media del vertido a 20 º, expresada en S/cm
+MP = la suma de las concentraciones existentes en el agua de los siguientes metales, expresadas en kg/m³: mercurio Hg, cadmio Cd, plomo Pb, aluminio Al, cromo Cr, cobre Cu, níquel Ni, zinc Zn y hierro Fe, afectadas cada una de ellas por un coeficiente en función de su peligrosidad potencial, de acuerdo con la siguiente expresión:
+Equimetal (kg/m³) = 200Hg + 40Cd + 40Pb + 10Al + 4Cr + 2Cu + 2Ni + Zn + Fe
 3. La cantidad de contaminación correspondiente a cada uno de los parámetros indicados en el apartado anterior se determinará según las normas siguientes, o normativa que las sustituya:
 a) Las materias en suspensión serán medidas según la norma UNE–EN 872:2006.
 b) La determinación de la demanda química de oxígeno se efectuará, de forma general, según la norma ISO 15705/2002. También se podrá determinar mediante la norma UNE 77004:2002.
@@ -98,6 +99,7 @@ e) La determinación de materias inhibidoras se efectuará por la determinación
 f) La determinación de la conductividad se efectuará según la norma UNE-EN 27888:1994.
 g) La determinación de los metales mercurio, cadmio, plomo, aluminio, cromo, cobre, níquel y zinc se efectuará según la normativa UNE por espectrometría de absorción atómica o ICP.
 h) No obstante, podrán utilizarse otras técnicas distintas a las que figuran en los apartados anteriores siempre que se encuentren recogidas en los procedimientos analíticos UNE, NF, DIN, EN, ASN, ISO, APHA-AWWA-WPCF, o en cualquier otra que esté reconocida internacionalmente.
+Se modifica el punto 2 por el art. único.20 de la Ley 5/2024, de 6 de septiembre. Ref. BOE-A-2025-4170
 ANEXO 4
 Fórmula para el cálculo del coeficiente de contaminación del canon de depuración
 El coeficiente de contaminación del canon de depuración será un número K, de cuatro decimales, que resultará de la adición de otros dos coeficientes k1 y k2.
