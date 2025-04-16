@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 9/2019, de 13 de diciembre, de Mecenazgo Cultural y Deportivo de Castilla-La Mancha", según establece el art. 8.1 de la Ley 2/2025, de 11 de abril. Ref. BOE-A-2025-11442
