@@ -1,0 +1,5 @@
+Artículo sexto. Vigencia del reconocimiento.
+1. La vigencia de las resoluciones en que se declare la representatividad será de cinco años desde el día de su publicación.
+2. Tres meses antes de que expire su vigencia la Consejería, a través de su órgano competente dictará una nueva resolución de inicio del procedimiento para la determinación de la representatividad conforme a las reglas recogidas en esta disposición.
+3. No obstante, se mantendrá transitoriamente la vigencia de la representatividad hasta la publicación de las resoluciones que pongan fin al correspondiente procedimiento de medición de la representatividad.
+4. En caso de escisión de una parte o división de una organización profesional agraria, sólo conservará la condición de organización profesional agraria más representativa la entidad que conserve la titularidad del NIF de la organización que obtuvo el reconocimiento como tal, sin perjuicio de que, en su caso, puedan participar en el siguiente procedimiento de medición de la representatividad.

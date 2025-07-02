@@ -1,0 +1,2 @@
+Artículo séptimo. Efectos generales del reconocimiento.
+Las organizaciones profesionales agrarias de carácter general a las que, de acuerdo con los criterios de esta disposición, se reconozca la condición de más representativas en el ámbito de Castilla-La Mancha desarrollarán funciones de representación institucional en defensa de sus intereses ante la Junta de Comunidades de Castilla-La Mancha y otras entidades u organismos de carácter regional, y tendrán los derechos inherentes a su consideración como tales.
