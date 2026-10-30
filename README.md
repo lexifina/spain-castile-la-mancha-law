@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-160 norms with 561 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 14 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+161 norms with 566 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 15 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -174,6 +174,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2013-002/` | Ley 2/2013, de 25 de abril, del juego y las apuestas de Castilla-La Mancha. | 6 | as first published, then each change: 9 November 2013 to 30 January 2022; **repealed** 30 January 2022 by Ley 5/2021, de 23 de julio (BOE-A-2021-18039) | 2025-12-19 |
 | `ley-2013-007/` | Ley 7/2013, de 21 de noviembre, de adecuación de procedimientos administrativos y reguladora del régimen general de la declaración responsable y comunicación previa. | 5 | as first published, then each change: 19 December 2013 to 6 August 2025; **repealed** 6 August 2025 by Ley 4/2025, de 11 de julio (BOE-A-2025-18966) | 2025-12-19 |
 | `ley-2014-005/` | Ley 5/2014, de 9 de octubre, de Protección Social y Jurídica de la Infancia y la Adolescencia de Castilla-La Mancha. | 3 | as first published, then each change: 17 November 2014 to 14 April 2023; **repealed** 14 April 2023 by Ley 7/2023, de 10 de marzo (BOE-A-2023-8710) | 2025-12-19 |
+| `ley-1993-002/` | Ley 2/1993, de 15 de julio, de Caza de Castilla-La Mancha. | 5 | as first published, then each change: 4 November 1993 to 2 April 2015; **repealed** 2 April 2015 by Ley 3/2015, de 5 de marzo (BOE-A-2015-6877) | 2025-12-17 |
 
 ## Source
 

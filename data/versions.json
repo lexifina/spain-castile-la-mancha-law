@@ -4646,6 +4646,44 @@
      "sha256": "b9d3da9ac9357caa6221616bc5e04e00cbbf919854fed239a99f62e087d0587d"
     }
    ]
+  },
+  {
+   "slug": "ley-1993-002",
+   "short": "Ley 2/1993, de 15 de julio",
+   "title": "Ley 2/1993, de 15 de julio, de Caza de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1993-26323",
+   "versions": [
+    {
+     "from": "1993-11-04",
+     "units": 119,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1993-26323",
+     "sha256": "df08b257df6990e590a5b8575127ce7691038fc8cf46ff9dd82f79e98861410c"
+    },
+    {
+     "from": "1999-07-02",
+     "units": 119,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1993-26323",
+     "sha256": "df08b257df6990e590a5b8575127ce7691038fc8cf46ff9dd82f79e98861410c"
+    },
+    {
+     "from": "2006-11-29",
+     "units": 119,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1993-26323",
+     "sha256": "df08b257df6990e590a5b8575127ce7691038fc8cf46ff9dd82f79e98861410c"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 119,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1993-26323",
+     "sha256": "df08b257df6990e590a5b8575127ce7691038fc8cf46ff9dd82f79e98861410c"
+    },
+    {
+     "from": "2015-04-02",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1993-26323",
+     "sha256": "df08b257df6990e590a5b8575127ce7691038fc8cf46ff9dd82f79e98861410c"
+    }
+   ]
   }
  ]
 }

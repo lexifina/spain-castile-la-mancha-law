@@ -174,20 +174,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2013-002` | Ley 2/2013, de 25 de abril, del juego y las apuestas de Castilla-La Mancha. | 6 | 2013-11-09 to 2022-01-30 |
 | `ley-2013-007` | Ley 7/2013, de 21 de noviembre, de adecuación de procedimientos administrativos y reguladora del régimen general de la declaración responsable y comunicación previa. | 5 | 2013-12-19 to 2025-08-06 |
 | `ley-2014-005` | Ley 5/2014, de 9 de octubre, de Protección Social y Jurídica de la Infancia y la Adolescencia de Castilla-La Mancha. | 3 | 2014-11-17 to 2023-04-14 |
+| `ley-1993-002` | Ley 2/1993, de 15 de julio, de Caza de Castilla-La Mancha. | 5 | 1993-11-04 to 2015-04-02 |
 
-The build made 342 commits:
+The build made 347 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 160 | first version of an act |
-| 182 | one law on its in-force day |
+| 161 | first version of an act |
+| 186 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 287 laws in the record.
-- 842 tags.
+- 289 laws in the record.
+- 849 tags.
 
 ## Dates
 
@@ -199,13 +200,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `26111fb8146c5d7fe64a9148ec4cd23b67729f8136abf825fb25c7adcc77214a` (16698765 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `8c70cbdbf8c094c8387b90706d76692f0ce3a23d53598e8d3a152eeb89dc782d` (16861536 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-561 versions of 160 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -219,6 +220,7 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms repealed (or found) after the first capture follow the same rule. When the BOE's three records do not all agree, a norm is still included if its metadata marks it repealed with a fecha_derogacion and no text changes on or after that day: the repeal day is that fecha_derogacion, and the repealer is the one norm named on that day's repeal note, or, with no note that day, the only SE DEROGA reference. Norms whose force ran out without a repeal (vigencia agotada) and annulled norms are left out.
 
 ## What AI did and did not do
 
