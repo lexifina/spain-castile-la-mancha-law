@@ -1,0 +1,4651 @@
+{
+ "country": "ES-CM",
+ "acts": [
+  {
+   "slug": "estatuto-de-autonomia",
+   "short": "Ley Orgánica 9/1982, de 10 de agosto",
+   "title": "Ley Orgánica 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1982-20820",
+   "versions": [
+    {
+     "from": "1982-08-17",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "1991-04-03",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "1994-04-14",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "1997-07-24",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "2002-07-03",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "2010-07-18",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    },
+    {
+     "from": "2014-05-23",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1982-20820",
+     "sha256": "e989c51a5857cd7df2ae6d6a55fedbce2aa8a73b09dc43a9fd1f691ce3389578"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-001",
+   "short": "Ley 1/1983, de 30 de junio",
+   "title": "Ley 1/1983, de 30 de junio, sobre al Escudo de la Región de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1983-27800",
+   "versions": [
+    {
+     "from": "1983-07-13",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1983-27800",
+     "sha256": "b46795b7644dda99dcd0c2ddfc270aacd08e5bafd68b25e056256dcc9201bf2b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1983-003",
+   "short": "Ley 3/1983, de 7 de diciembre",
+   "title": "Ley 3/1983, de 7 de diciembre, de la Sede de las Instituciones Regionales de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-1856",
+   "versions": [
+    {
+     "from": "1984-01-09",
+     "units": 3,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-1856",
+     "sha256": "c40d21e63a6f65cddec2027323168afc969eaea3c04804a8ccc3401066c5ac72"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1984-003",
+   "short": "Ley 3/1984, de 25 de abril",
+   "title": "Ley 3/1984, de 25 de abril, sobre Régimen Jurídico del Gobierno y de la Administración de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1984-11906",
+   "versions": [
+    {
+     "from": "1984-05-08",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11906",
+     "sha256": "94b8040e613209b6cc832dbabe0d4bd5235d5da28356e29c522d2356c131cd17"
+    },
+    {
+     "from": "1995-12-23",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11906",
+     "sha256": "94b8040e613209b6cc832dbabe0d4bd5235d5da28356e29c522d2356c131cd17"
+    },
+    {
+     "from": "1997-09-20",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1984-11906",
+     "sha256": "94b8040e613209b6cc832dbabe0d4bd5235d5da28356e29c522d2356c131cd17"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1984-005",
+   "short": "Ley 5/1984, de 19 de diciembre",
+   "title": "Ley 5/1984, de 19 de diciembre, de las Comunidades Originarias de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-1807",
+   "versions": [
+    {
+     "from": "1985-01-20",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-1807",
+     "sha256": "41b798979b57e869734532fb0fa29e6c6ccf9365ed01adf36f49b322a9da4152"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-002",
+   "short": "Ley 2/1985, de 8 de mayo",
+   "title": "Ley 2/1985, de 8 de mayo, sobre iniciativa legislativa popular y de los Ayuntamientos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18953",
+   "versions": [
+    {
+     "from": "1985-05-22",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18953",
+     "sha256": "e14ba7705b766a0789c1b6eef77b5cdd5cb56466d0a4392490368c268e7beb53"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-004",
+   "short": "Ley 4/1985, de 26 de junio",
+   "title": "Ley 4/1985, de 26 de junio, sobre designación de Senadores representantes de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-18558",
+   "versions": [
+    {
+     "from": "1985-08-12",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18558",
+     "sha256": "cc3a283893a1dda743578420a372392ef308ef52a2f2e168e52ad3523e864818"
+    },
+    {
+     "from": "1987-04-28",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18558",
+     "sha256": "cc3a283893a1dda743578420a372392ef308ef52a2f2e168e52ad3523e864818"
+    },
+    {
+     "from": "1996-01-18",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18558",
+     "sha256": "cc3a283893a1dda743578420a372392ef308ef52a2f2e168e52ad3523e864818"
+    },
+    {
+     "from": "2011-01-20",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18558",
+     "sha256": "cc3a283893a1dda743578420a372392ef308ef52a2f2e168e52ad3523e864818"
+    },
+    {
+     "from": "2023-08-09",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-18558",
+     "sha256": "cc3a283893a1dda743578420a372392ef308ef52a2f2e168e52ad3523e864818"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1986-005",
+   "short": "Ley 5/1986, de 23 de diciembre",
+   "title": "Ley 5/1986, de 23 de diciembre, electoral de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-2164",
+   "versions": [
+    {
+     "from": "1987-01-06",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "1991-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "1991-03-21",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "1995-01-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "1998-12-02",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2002-06-29",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2002-10-31",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2003-03-19",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2006-10-09",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2007-11-17",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2012-06-02",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2014-07-29",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2022-11-12",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-2164",
+     "sha256": "c43f55cbf9615ee7d4b24afbe9198848fc9d61504ed172a0baeecadc36acb5b9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1987-001",
+   "short": "Ley 1/1987, de 7 de abril",
+   "title": "Ley 1/1987, de 7 de abril, sobre el Consejo Asesor de Radio y Televisión Española en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1987-11484",
+   "versions": [
+    {
+     "from": "1987-05-18",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-11484",
+     "sha256": "489dd0e898d360e997006ee2e1399fd81651e6e2cfd71c1cca1da0a60ef81666"
+    },
+    {
+     "from": "1998-06-04",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1987-11484",
+     "sha256": "489dd0e898d360e997006ee2e1399fd81651e6e2cfd71c1cca1da0a60ef81666"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1988-003",
+   "short": "Ley 3/1988, de 13 de diciembre",
+   "title": "Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-1487",
+   "versions": [
+    {
+     "from": "1988-12-28",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "1990-01-01",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "1991-01-01",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "1993-01-01",
+     "units": 33,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "1999-03-21",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2001-08-06",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2002-01-03",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2002-02-23",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2002-11-16",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2006-11-10",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2010-08-17",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-1487",
+     "sha256": "1530fb6627a9a9ea2b73f32cbb53eba86dc964e68aca55f42fbb11cf62f6acc6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1989-003",
+   "short": "Ley 3/1989, de 18 de mayo",
+   "title": "Ley 3/1989, de 18 de mayo, de Capitalidad de los Partidos Judiciales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1989-13994",
+   "versions": [
+    {
+     "from": "1989-05-31",
+     "units": 7,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1989-13994",
+     "sha256": "c56b288bcd5ff760397724d794bd5a74bbc7d9205557a276b4663f21504d37b2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-008",
+   "short": "Ley 8/1990, de 28 de diciembre",
+   "title": "Ley 8/1990, de 28 de diciembre, de Aguas Minerales y Termales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-4003",
+   "versions": [
+    {
+     "from": "1991-01-22",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-4003",
+     "sha256": "da85c2b328c200dcfa10c3e14d81948632fdf9fd240b28a9d5bb0051bbfe61d6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-009",
+   "short": "Ley 9/1990, de 28 de diciembre",
+   "title": "Ley 9/1990, de 28 de diciembre, de Carreteras y Caminos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-6605",
+   "versions": [
+    {
+     "from": "1991-01-22",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-6605",
+     "sha256": "c425d2c526b56671d2476ff964a96af5a2e7a77494ea4f51dfcf64dc1492da37"
+    },
+    {
+     "from": "2002-05-28",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-6605",
+     "sha256": "c425d2c526b56671d2476ff964a96af5a2e7a77494ea4f51dfcf64dc1492da37"
+    },
+    {
+     "from": "2009-05-26",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-6605",
+     "sha256": "c425d2c526b56671d2476ff964a96af5a2e7a77494ea4f51dfcf64dc1492da37"
+    },
+    {
+     "from": "2010-06-10",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-6605",
+     "sha256": "c425d2c526b56671d2476ff964a96af5a2e7a77494ea4f51dfcf64dc1492da37"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-002",
+   "short": "Ley 2/1991, de 14 de marzo",
+   "title": "Ley 2/1991, de 14 de marzo, de Coordinación de Diputaciones.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-10110",
+   "versions": [
+    {
+     "from": "1992-01-01",
+     "units": 28,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10110",
+     "sha256": "700f4125c1dc61a4eeee3efe63255d68f906667b7177a2ce033eb0804ee79b1d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1991-003",
+   "short": "Ley 3/1991, de 4 de marzo",
+   "title": "Ley 3/1991, de 4 de marzo, de Entidades Locales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-10111",
+   "versions": [
+    {
+     "from": "1991-04-16",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "1996-01-01",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "1998-07-09",
+     "units": 90,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2000-01-01",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2001-01-01",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2010-01-01",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2011-04-01",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 92,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-10111",
+     "sha256": "933bc3126215ec2da7dd20f59dbeb2622be5b77273e647fa67bcbaebbae6a592"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1992-001",
+   "short": "Ley 1/1992, de 7 de mayo",
+   "title": "Ley 1/1992, de 7 de mayo, de Pesca Fluvial.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-22500",
+   "versions": [
+    {
+     "from": "1992-09-24",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "1992-11-04",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "1993-04-03",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "1998-02-24",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "2008-07-13",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    },
+    {
+     "from": "2018-04-15",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1992-22500",
+     "sha256": "767d49f981bbd5ff947aa0d5bb0e0a0178c54f9a1dcf2625ba184500d0e06935"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1994-001",
+   "short": "Ley 1/1994, de 24 de mayo",
+   "title": "Ley 1/1994, de 24 de mayo, de accesibilidad y eliminación de barreras en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-3396",
+   "versions": [
+    {
+     "from": "1994-07-14",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-3396",
+     "sha256": "5c50c9d37024c0530927f7e63c67ba3b7a384fa797380a0695929edb4add5c53"
+    },
+    {
+     "from": "2015-01-02",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-3396",
+     "sha256": "5c50c9d37024c0530927f7e63c67ba3b7a384fa797380a0695929edb4add5c53"
+    },
+    {
+     "from": "2019-01-27",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1995-3396",
+     "sha256": "5c50c9d37024c0530927f7e63c67ba3b7a384fa797380a0695929edb4add5c53"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1995-004",
+   "short": "Ley 4/1995, de 16 de marzo",
+   "title": "Ley 4/1995, de 16 de marzo, de Voluntariado en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-5104",
+   "versions": [
+    {
+     "from": "1995-04-22",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1996-5104",
+     "sha256": "a2a8c85c98ec9b6ebd2c7bf62472904c6bb147dc2016c9aa4ba049f7c367ca99"
+    },
+    {
+     "from": "2014-11-17",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1996-5104",
+     "sha256": "a2a8c85c98ec9b6ebd2c7bf62472904c6bb147dc2016c9aa4ba049f7c367ca99"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-002",
+   "short": "Ley 2/1997, de 30 de mayo",
+   "title": "Ley 2/1997, de 30 de mayo, de Actividades Feriales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-21861",
+   "versions": [
+    {
+     "from": "1997-07-17",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21861",
+     "sha256": "c29596feedb602a3d37825e3adfacd3c1c0104992e03edd6ae63f65c43a0a200"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21861",
+     "sha256": "c29596feedb602a3d37825e3adfacd3c1c0104992e03edd6ae63f65c43a0a200"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-004",
+   "short": "Ley 4/1997, de 10 de julio",
+   "title": "Ley 4/1997, de 10 de julio, de Cajas de Ahorro de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1997-21911",
+   "versions": [
+    {
+     "from": "1997-07-19",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21911",
+     "sha256": "affd09a9899053f8bcbc5b6b6713162552ed4f999c6c5cead4e547e64ce50c4e"
+    },
+    {
+     "from": "2002-01-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21911",
+     "sha256": "affd09a9899053f8bcbc5b6b6713162552ed4f999c6c5cead4e547e64ce50c4e"
+    },
+    {
+     "from": "2004-12-23",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21911",
+     "sha256": "affd09a9899053f8bcbc5b6b6713162552ed4f999c6c5cead4e547e64ce50c4e"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21911",
+     "sha256": "affd09a9899053f8bcbc5b6b6713162552ed4f999c6c5cead4e547e64ce50c4e"
+    },
+    {
+     "from": "2010-05-22",
+     "units": 102,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1997-21911",
+     "sha256": "affd09a9899053f8bcbc5b6b6713162552ed4f999c6c5cead4e547e64ce50c4e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1997-011",
+   "short": "Ley 11/1997, de 17 de diciembre",
+   "title": "Ley 11/1997, de 17 de diciembre, de creación de la empresa pública «Gestión de Infraestructuras de Castilla-La Mancha».",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1998-1387",
+   "versions": [
+    {
+     "from": "1998-01-01",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-1387",
+     "sha256": "3720d3681fc49a6726a6ba8013d251d3a402a0c4c707fc64be4412e0b19645e8"
+    },
+    {
+     "from": "2010-12-21",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-1387",
+     "sha256": "3720d3681fc49a6726a6ba8013d251d3a402a0c4c707fc64be4412e0b19645e8"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-1387",
+     "sha256": "3720d3681fc49a6726a6ba8013d251d3a402a0c4c707fc64be4412e0b19645e8"
+    },
+    {
+     "from": "2012-08-07",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-1387",
+     "sha256": "3720d3681fc49a6726a6ba8013d251d3a402a0c4c707fc64be4412e0b19645e8"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1998-1387",
+     "sha256": "3720d3681fc49a6726a6ba8013d251d3a402a0c4c707fc64be4412e0b19645e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-006",
+   "short": "Ley 6/1999, de 15 de abril",
+   "title": "Ley 6/1999, de 15 de abril, de Protección de la Calidad del Suministro Eléctrico.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-11705",
+   "versions": [
+    {
+     "from": "1999-05-20",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11705",
+     "sha256": "9ea88776626096ec8ee01989365f8201ef18540de6087893fa4a7b3f6c6b1807"
+    },
+    {
+     "from": "1999-09-24",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11705",
+     "sha256": "9ea88776626096ec8ee01989365f8201ef18540de6087893fa4a7b3f6c6b1807"
+    },
+    {
+     "from": "2000-02-02",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11705",
+     "sha256": "9ea88776626096ec8ee01989365f8201ef18540de6087893fa4a7b3f6c6b1807"
+    },
+    {
+     "from": "2011-10-26",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11705",
+     "sha256": "9ea88776626096ec8ee01989365f8201ef18540de6087893fa4a7b3f6c6b1807"
+    },
+    {
+     "from": "2023-09-24",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-11705",
+     "sha256": "9ea88776626096ec8ee01989365f8201ef18540de6087893fa4a7b3f6c6b1807"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-008",
+   "short": "Ley 8/1999, de 26 de mayo",
+   "title": "Ley 8/1999, de 26 de mayo, de Ordenación del Turismo de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-16377",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16377",
+     "sha256": "ee3be8e824f1167c18e317fb71760a159043093a931ba313de6300b66549d291"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16377",
+     "sha256": "ee3be8e824f1167c18e317fb71760a159043093a931ba313de6300b66549d291"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16377",
+     "sha256": "ee3be8e824f1167c18e317fb71760a159043093a931ba313de6300b66549d291"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16377",
+     "sha256": "ee3be8e824f1167c18e317fb71760a159043093a931ba313de6300b66549d291"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-009",
+   "short": "Ley 9/1999, de 26 de mayo",
+   "title": "Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-16378",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 140,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    },
+    {
+     "from": "2007-04-25",
+     "units": 153,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    },
+    {
+     "from": "2011-04-20",
+     "units": 153,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 153,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 154,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    },
+    {
+     "from": "2018-04-15",
+     "units": 154,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16378",
+     "sha256": "78e19d1c8d7f94608dc1674851a99b522d92fa5aece9f8c7a706c18b598c9dd5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1999-010",
+   "short": "Ley 10/1999, de 26 de mayo",
+   "title": "Ley 10/1999, de 26 de mayo, de Creación de Colegios Profesionales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1999-16379",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16379",
+     "sha256": "8efa1ffb73a1677a37e51f04c07c6b2f9462c250b7762bc58ede8a421623b736"
+    },
+    {
+     "from": "2017-07-01",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16379",
+     "sha256": "8efa1ffb73a1677a37e51f04c07c6b2f9462c250b7762bc58ede8a421623b736"
+    },
+    {
+     "from": "2020-08-06",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1999-16379",
+     "sha256": "8efa1ffb73a1677a37e51f04c07c6b2f9462c250b7762bc58ede8a421623b736"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-003",
+   "short": "Ley 3/2000, de 26 de mayo",
+   "title": "Ley 3/2000, de 26 de mayo, de Creación del Ente Público de Radio-Televisión de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2000-12607",
+   "versions": [
+    {
+     "from": "2000-06-02",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    },
+    {
+     "from": "2001-05-26",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    },
+    {
+     "from": "2002-04-16",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    },
+    {
+     "from": "2015-08-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2000-12607",
+     "sha256": "0eeca34dd5c68e5c6a56df3a0923f477dfd1f1e47223066d8f6e3a641313897e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-005",
+   "short": "Ley 5/2000, de 19 de octubre",
+   "title": "Ley 5/2000, de 19 de octubre, de creación del Colegio Oficial de Protésicos Dentales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-426",
+   "versions": [
+    {
+     "from": "2000-12-03",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-426",
+     "sha256": "b0e89a05a25fca08e3e0b98fb7455699921885452d76edb9e227f82412db7288"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-006",
+   "short": "Ley 6/2000, de 19 de octubre",
+   "title": "Ley 6/2000, de 19 de octubre, de creación del Colegio Oficial de Podólogos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-427",
+   "versions": [
+    {
+     "from": "2000-12-03",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-427",
+     "sha256": "07cf991dc542d1c885489ecfd1b98f43af996c742f9fb3c223c306840b132dcd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-007",
+   "short": "Ley 7/2000, de 23 de noviembre",
+   "title": "Ley 7/2000, de 23 de noviembre, de Ordenación del Aprovechamiento de Pastos, Hierbas y Rastrojeras.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-428",
+   "versions": [
+    {
+     "from": "2000-12-25",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-428",
+     "sha256": "9100ef7ae57ec838b379b097563aead52883aabbb781f63609971ecce31d891c"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-428",
+     "sha256": "9100ef7ae57ec838b379b097563aead52883aabbb781f63609971ecce31d891c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2000-008",
+   "short": "Ley 8/2000, de 30 de noviembre",
+   "title": "Ley 8/2000, de 30 de noviembre, de Ordenación Sanitaria de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-3896",
+   "versions": [
+    {
+     "from": "2001-01-19",
+     "units": 93,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-3896",
+     "sha256": "57e9ece38b1fa1613aad2d60284cc86406004fbd847713f14359a75f212fd160"
+    },
+    {
+     "from": "2002-01-17",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-3896",
+     "sha256": "57e9ece38b1fa1613aad2d60284cc86406004fbd847713f14359a75f212fd160"
+    },
+    {
+     "from": "2011-01-09",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-3896",
+     "sha256": "57e9ece38b1fa1613aad2d60284cc86406004fbd847713f14359a75f212fd160"
+    },
+    {
+     "from": "2014-10-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-3896",
+     "sha256": "57e9ece38b1fa1613aad2d60284cc86406004fbd847713f14359a75f212fd160"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 94,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-3896",
+     "sha256": "57e9ece38b1fa1613aad2d60284cc86406004fbd847713f14359a75f212fd160"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-003",
+   "short": "Ley 3/2001, de 26 de abril",
+   "title": "Ley 3/2001, de 26 de abril, de Creación del Colegio Profesional de Fisioterapeutas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11887",
+   "versions": [
+    {
+     "from": "2001-05-16",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11887",
+     "sha256": "9c13df54189f6cf6f45ee7718f20c93b95c1b1866a50aeb9346ef0409ae232a0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-004",
+   "short": "Ley 4/2001, de 10 de mayo",
+   "title": "Ley 4/2001, de 10 de mayo, de Parques Arqueológicos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11888",
+   "versions": [
+    {
+     "from": "2001-06-07",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11888",
+     "sha256": "3dab03b17535587ef9f99e06bd8a8cf7bd9a7d594de5dc558f5d1a9093b039d4"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11888",
+     "sha256": "3dab03b17535587ef9f99e06bd8a8cf7bd9a7d594de5dc558f5d1a9093b039d4"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-008",
+   "short": "Ley 8/2001, de 28 de junio",
+   "title": "Ley 8/2001, de 28 de junio, para la Ordenación de las Instalaciones de Radiocomunicación en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-17845",
+   "versions": [
+    {
+     "from": "2001-07-30",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-17845",
+     "sha256": "7bdcf0365f8357c225765443f8a76ea3af6b31436947c5a66e8ca4b64426798f"
+    },
+    {
+     "from": "2002-05-21",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-17845",
+     "sha256": "7bdcf0365f8357c225765443f8a76ea3af6b31436947c5a66e8ca4b64426798f"
+    },
+    {
+     "from": "2002-10-15",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-17845",
+     "sha256": "7bdcf0365f8357c225765443f8a76ea3af6b31436947c5a66e8ca4b64426798f"
+    },
+    {
+     "from": "2012-02-11",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-17845",
+     "sha256": "7bdcf0365f8357c225765443f8a76ea3af6b31436947c5a66e8ca4b64426798f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-009",
+   "short": "Ley 9/2001, de 27 de septiembre",
+   "title": "Ley 9/2001, de 27 de septiembre, de Creación del Colegio Profesional de Logopedas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-23924",
+   "versions": [
+    {
+     "from": "2001-10-10",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-23924",
+     "sha256": "09e03db76cb56fded98bf63d2438e047eea7839d0b0d766ef35d85ecaa12bdc2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-012",
+   "short": "Ley 12/2001, de 29 de noviembre",
+   "title": "Ley 12/2001, de 29 de noviembre, de Acceso de las Personas con Discapacidad a la Función Pública de la Administración de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-2517",
+   "versions": [
+    {
+     "from": "2002-01-03",
+     "units": 9,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2517",
+     "sha256": "d88097008bfbe5f0286390f6d374ee0f9773c22415a3a27ff97757fac20aea20"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-2517",
+     "sha256": "d88097008bfbe5f0286390f6d374ee0f9773c22415a3a27ff97757fac20aea20"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-002",
+   "short": "Ley 2/2002, de 7 de febrero",
+   "title": "Ley 2/2002, de 7 de febrero, por la que se establecen y regulan las diversas modalidades de viviendas de protección pública en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-6235",
+   "versions": [
+    {
+     "from": "2002-02-23",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-6235",
+     "sha256": "ee60664a1d1e0f8fe764cfecae208b53699504047684978a0c75e161b017d0e8"
+    },
+    {
+     "from": "2011-03-13",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-6235",
+     "sha256": "ee60664a1d1e0f8fe764cfecae208b53699504047684978a0c75e161b017d0e8"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-6235",
+     "sha256": "ee60664a1d1e0f8fe764cfecae208b53699504047684978a0c75e161b017d0e8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-008",
+   "short": "Ley 8/2002, de 23 de mayo",
+   "title": "Ley 8/2002, de 23 de mayo, de Coordinación de Policías Locales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-14084",
+   "versions": [
+    {
+     "from": "2002-07-02",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14084",
+     "sha256": "c46819fa2c48956381df4b107b4cbfcb7f4b9ebb55847997aa3d2914bda76c6b"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14084",
+     "sha256": "c46819fa2c48956381df4b107b4cbfcb7f4b9ebb55847997aa3d2914bda76c6b"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 58,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14084",
+     "sha256": "c46819fa2c48956381df4b107b4cbfcb7f4b9ebb55847997aa3d2914bda76c6b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-009",
+   "short": "Ley 9/2002, de 6 de junio",
+   "title": "Ley 9/2002, de 6 de junio, de Creación del Consejo de Relaciones Laborales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-14085",
+   "versions": [
+    {
+     "from": "2002-07-24",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14085",
+     "sha256": "535e17aa53589c36a52eb4372826f66f9369e5787d3a9916cb1023fef6a22e99"
+    },
+    {
+     "from": "2009-01-06",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14085",
+     "sha256": "535e17aa53589c36a52eb4372826f66f9369e5787d3a9916cb1023fef6a22e99"
+    },
+    {
+     "from": "2014-11-01",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14085",
+     "sha256": "535e17aa53589c36a52eb4372826f66f9369e5787d3a9916cb1023fef6a22e99"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14085",
+     "sha256": "535e17aa53589c36a52eb4372826f66f9369e5787d3a9916cb1023fef6a22e99"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-010",
+   "short": "Ley 10/2002, de 21 de junio",
+   "title": "Ley 10/2002, de 21 de junio, de Estadística de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-14086",
+   "versions": [
+    {
+     "from": "2002-07-18",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14086",
+     "sha256": "d2e89b3524d5c72d8c440defe173bc621dc5fd61766b8fdc9ab07cf6b09c0569"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14086",
+     "sha256": "d2e89b3524d5c72d8c440defe173bc621dc5fd61766b8fdc9ab07cf6b09c0569"
+    },
+    {
+     "from": "2010-12-21",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-14086",
+     "sha256": "d2e89b3524d5c72d8c440defe173bc621dc5fd61766b8fdc9ab07cf6b09c0569"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-014",
+   "short": "Ley 14/2002, de 11 de julio",
+   "title": "Ley 14/2002, de 11 de julio, de Ordenación y Fomento de la Artesanía.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18103",
+   "versions": [
+    {
+     "from": "2002-08-13",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18103",
+     "sha256": "78b00b403b75671903fc326be9e62d0a5c4f17b88a5186db33612813a19476f3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-015",
+   "short": "Ley 15/2002, de 11 de julio",
+   "title": "Ley 15/2002, de 11 de julio, sobre Drogodependencias y otros Trastornos Adictivos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18104",
+   "versions": [
+    {
+     "from": "2002-08-24",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18104",
+     "sha256": "abe2886308a1768396b4d3ab2a595c71b01dc1fb6eb25beb7344306f4aadc100"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-019",
+   "short": "Ley 19/2002, de 24 de octubre",
+   "title": "Ley 19/2002, de 24 de octubre, de Archivos Públicos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-24540",
+   "versions": [
+    {
+     "from": "2002-11-16",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-24540",
+     "sha256": "4fbae7226f93ee8ec5a3d6a52033c4051b7805b48b0b1ee20c8cc844d33ad07f"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-24540",
+     "sha256": "4fbae7226f93ee8ec5a3d6a52033c4051b7805b48b0b1ee20c8cc844d33ad07f"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 73,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-24540",
+     "sha256": "4fbae7226f93ee8ec5a3d6a52033c4051b7805b48b0b1ee20c8cc844d33ad07f"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2002-001",
+   "short": "Decreto Legislativo 1/2002, de 19 de noviembre de 2002",
+   "title": "Decreto Legislativo 1/2002, de 19 de noviembre de 2002, por el que se aprueba el Texto Refundido de la Ley de Hacienda de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=DOCM-q-2002-90021",
+   "versions": [
+    {
+     "from": "2002-11-30",
+     "units": 132,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 132,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2007-01-19",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2008-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2010-12-21",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2011-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2011-12-07",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2012-07-19",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2016-05-01",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2017-09-06",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 135,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2022-03-10",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2022-03-25",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2023-03-04",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2024-08-30",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 136,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2002-90021",
+     "sha256": "0d29e7e726bf5af9f49c4e6f1a351643efbc4787c0672d1b58aa0c081c316866"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-022",
+   "short": "Ley 22/2002, de 21 de noviembre",
+   "title": "Ley 22/2002, de 21 de noviembre, de Creación del Instituto de la Mujer de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-1692",
+   "versions": [
+    {
+     "from": "2002-12-24",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1692",
+     "sha256": "420f6328cdc1f02fede3f65d3fa0d151442d573b44bca00851747e2581f7c87c"
+    },
+    {
+     "from": "2008-06-24",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1692",
+     "sha256": "420f6328cdc1f02fede3f65d3fa0d151442d573b44bca00851747e2581f7c87c"
+    },
+    {
+     "from": "2010-11-26",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1692",
+     "sha256": "420f6328cdc1f02fede3f65d3fa0d151442d573b44bca00851747e2581f7c87c"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1692",
+     "sha256": "420f6328cdc1f02fede3f65d3fa0d151442d573b44bca00851747e2581f7c87c"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-1692",
+     "sha256": "420f6328cdc1f02fede3f65d3fa0d151442d573b44bca00851747e2581f7c87c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-003",
+   "short": "Ley 3/2003, de 13 de febrero",
+   "title": "Ley 3/2003, de 13 de febrero, de Cooperación Internacional para el Desarrollo.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-10839",
+   "versions": [
+    {
+     "from": "2003-03-20",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-10839",
+     "sha256": "501a8e47df1bdb0092c61c46f047cecfbf81a17ef9f37e3055bcb10b42228944"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-10839",
+     "sha256": "501a8e47df1bdb0092c61c46f047cecfbf81a17ef9f37e3055bcb10b42228944"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 31,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-10839",
+     "sha256": "501a8e47df1bdb0092c61c46f047cecfbf81a17ef9f37e3055bcb10b42228944"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-009",
+   "short": "Ley 9/2003, de 20 de marzo",
+   "title": "Ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-11048",
+   "versions": [
+    {
+     "from": "2003-04-28",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2008-07-13",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2023-03-23",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 72,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-11048",
+     "sha256": "20793e2df32224420af6a5a92c319051d6671ff2125ef5360188826701a83fb8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-011",
+   "short": "Ley 11/2003, de 25 de septiembre",
+   "title": "Ley 11/2003, de 25 de septiembre, del Gobierno y del Consejo Consultivo de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-1974",
+   "versions": [
+    {
+     "from": "2003-10-07",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-1974",
+     "sha256": "f4c92874b72829824338e3ac5da250a3b1b8d04b023ae2b9e6233169f4e31b73"
+    },
+    {
+     "from": "2019-07-30",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-1974",
+     "sha256": "f4c92874b72829824338e3ac5da250a3b1b8d04b023ae2b9e6233169f4e31b73"
+    },
+    {
+     "from": "2020-07-04",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-1974",
+     "sha256": "f4c92874b72829824338e3ac5da250a3b1b8d04b023ae2b9e6233169f4e31b73"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-004",
+   "short": "Ley 4/2004, de 18 de mayo",
+   "title": "Ley 4/2004, de 18 de mayo, de la Explotación Agraria y del Desarrollo Rural en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-12396",
+   "versions": [
+    {
+     "from": "2004-06-25",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-12396",
+     "sha256": "b36be087bb55e157db5790c9405a658fe25779e777fbb096b115ff6469156c0d"
+    },
+    {
+     "from": "2023-05-07",
+     "units": 69,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2004-12396",
+     "sha256": "b36be087bb55e157db5790c9405a658fe25779e777fbb096b115ff6469156c0d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-006",
+   "short": "Ley 6/2004, de 21 de diciembre",
+   "title": "Ley 6/2004, de 21 de diciembre, para la aplicación al municipio de Albacete del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2532",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2532",
+     "sha256": "78e238b5bcfc71221224f9ac7a9ca44491ea8af43b6941df79282ec4a0c82799"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-007",
+   "short": "Ley 7/2004, de 21 de diciembre",
+   "title": "Ley 7/2004, de 21 de diciembre, para la aplicación al municipio de Ciudad Real del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2533",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2533",
+     "sha256": "9ddff663d2c4c9235f0a23306230cb847242de37b8c82a755f9b2b01d01ca8aa"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-008",
+   "short": "Ley 8/2004, de 21 de diciembre",
+   "title": "Ley 8/2004, de 21 de diciembre, para la aplicación al municipio de Guadalajara del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2534",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2534",
+     "sha256": "ed8c898a6cea5dc2fd046d0fab58dafd7fd6addc552729e8e37f34919f176280"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-009",
+   "short": "Ley 9/2004, de 21 de diciembre",
+   "title": "Ley 9/2004, de 21 de diciembre, para la aplicación al municipio de Talavera de la Reina del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2535",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2535",
+     "sha256": "3fe94049e5a7ef22d807bfab99d7b48a262c3f2ecc743f75baadc5c99afc70af"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-010",
+   "short": "Ley 10/2004, de 21 de diciembre",
+   "title": "Ley 10/2004, de 21 de diciembre, para la aplicación al municipio de Cuenca del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2536",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2536",
+     "sha256": "af093476b63b4add715f08278dae065b58bc4c15257ca253f9bcd448d161ea8e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2004-011",
+   "short": "Ley 11/2004, de 21 de diciembre",
+   "title": "Ley 11/2004, de 21 de diciembre, para la aplicación al municipio de Toledo del régimen de organización de los municipios de gran población.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-2537",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 5,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-2537",
+     "sha256": "507917cd138bc6322440c9838e7c2ae0cd592082238611bc9b4fe0ffe09bf1d7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-001",
+   "short": "Ley 1/2005, de 7 de abril",
+   "title": "Ley 1/2005, de 7 de abril, de los Consejos de la Juventud de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-8281",
+   "versions": [
+    {
+     "from": "2005-05-08",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-8281",
+     "sha256": "5ca0eb2be52d084b8b91c7b1b43780de23d1c4f997fc789ea7368d82f95df52c"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-8281",
+     "sha256": "5ca0eb2be52d084b8b91c7b1b43780de23d1c4f997fc789ea7368d82f95df52c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-005",
+   "short": "Ley 5/2005, de 27 de junio",
+   "title": "Ley 5/2005, de 27 de junio, de Ordenación del Servicio Farmacéutico de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14494",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 110,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-14494",
+     "sha256": "f06d69def53a5b549b2222d11b44b41b440c278a9f00e798a2f46ca0caf86357"
+    },
+    {
+     "from": "2015-03-27",
+     "units": 110,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-14494",
+     "sha256": "f06d69def53a5b549b2222d11b44b41b440c278a9f00e798a2f46ca0caf86357"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 110,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-14494",
+     "sha256": "f06d69def53a5b549b2222d11b44b41b440c278a9f00e798a2f46ca0caf86357"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-006",
+   "short": "Ley 6/2005, de 7 de julio",
+   "title": "Ley 6/2005, de 7 de julio, sobre la Declaración de Voluntades Anticipadas en materia de la propia salud.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-14495",
+   "versions": [
+    {
+     "from": "2005-08-15",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-14495",
+     "sha256": "92a5145feebd4e6347083a3bb0d5d1653d444e8d9d479f317cca9514c7357c43"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-009",
+   "short": "Ley 9/2005, de 6 de octubre",
+   "title": "Ley 9/2005, de 6 de octubre, de creación del Colegio Profesional de Higienistas Dentales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3153",
+   "versions": [
+    {
+     "from": "2005-11-10",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3153",
+     "sha256": "376df039034e2c27081c39c769db014d5c77281dfc5ac7bb84dd70b328017c26"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-014",
+   "short": "Ley 14/2005, de 29 de diciembre",
+   "title": "Ley 14/2005, de 29 de diciembre, de ordenación del transporte de personas por carretera en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3158",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3158",
+     "sha256": "859d6bbfa8e464a8ed82f9d84db5a6f1179a690494d0f27921c749cb8b7746c1"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3158",
+     "sha256": "859d6bbfa8e464a8ed82f9d84db5a6f1179a690494d0f27921c749cb8b7746c1"
+    },
+    {
+     "from": "2018-01-25",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3158",
+     "sha256": "859d6bbfa8e464a8ed82f9d84db5a6f1179a690494d0f27921c749cb8b7746c1"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3158",
+     "sha256": "859d6bbfa8e464a8ed82f9d84db5a6f1179a690494d0f27921c749cb8b7746c1"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3158",
+     "sha256": "859d6bbfa8e464a8ed82f9d84db5a6f1179a690494d0f27921c749cb8b7746c1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-016",
+   "short": "Ley 16/2005, de 29 de diciembre",
+   "title": "Ley 16/2005, de 29 de diciembre, del Impuesto sobre determinadas actividades que inciden en el medio ambiente y del tipo autonómico del Impuesto sobre las Ventas Minoristas de determinados Hidrocarburos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3160",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3160",
+     "sha256": "9b5882e01ab9a544c12c722ed35a4416440fc95b5636aa7861d2bc727dd1ef5a"
+    },
+    {
+     "from": "2011-04-01",
+     "units": 22,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3160",
+     "sha256": "9b5882e01ab9a544c12c722ed35a4416440fc95b5636aa7861d2bc727dd1ef5a"
+    },
+    {
+     "from": "2012-04-28",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3160",
+     "sha256": "9b5882e01ab9a544c12c722ed35a4416440fc95b5636aa7861d2bc727dd1ef5a"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3160",
+     "sha256": "9b5882e01ab9a544c12c722ed35a4416440fc95b5636aa7861d2bc727dd1ef5a"
+    },
+    {
+     "from": "2013-04-10",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3160",
+     "sha256": "9b5882e01ab9a544c12c722ed35a4416440fc95b5636aa7861d2bc727dd1ef5a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-001",
+   "short": "Ley 1/2007, de 15 de febrero",
+   "title": "Ley 1/2007, de 15 de febrero, de fomento de las Energías Renovables e Incentivación del Ahorro y Eficiencia Energética en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-9936",
+   "versions": [
+    {
+     "from": "2007-03-14",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9936",
+     "sha256": "63e01a3fa1ca9ac15edfa71901a5e5876fe2090bdab441bd22835ac0b0b629a7"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9936",
+     "sha256": "63e01a3fa1ca9ac15edfa71901a5e5876fe2090bdab441bd22835ac0b0b629a7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-003",
+   "short": "Ley 3/2007, de 8 de marzo",
+   "title": "Ley 3/2007, de 8 de marzo, de Participación Social en la Educación en la Comunidad Autónoma de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-9938",
+   "versions": [
+    {
+     "from": "2007-04-09",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9938",
+     "sha256": "62a37e323a6def3a54657b4358ac46577741a35809712c2c5dc69c687ee0b8a7"
+    },
+    {
+     "from": "2015-01-02",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9938",
+     "sha256": "62a37e323a6def3a54657b4358ac46577741a35809712c2c5dc69c687ee0b8a7"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9938",
+     "sha256": "62a37e323a6def3a54657b4358ac46577741a35809712c2c5dc69c687ee0b8a7"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9938",
+     "sha256": "62a37e323a6def3a54657b4358ac46577741a35809712c2c5dc69c687ee0b8a7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-007",
+   "short": "Ley 7/2007, de 15 de marzo",
+   "title": "Ley 7/2007, de 15 de marzo, de Calidad Agroalimentaria de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10026",
+   "versions": [
+    {
+     "from": "2007-05-05",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10026",
+     "sha256": "cb5cd1ac78fd43e4d4d794a76ce507921515e544d4abb339572ad82dbb9d9da8"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10026",
+     "sha256": "cb5cd1ac78fd43e4d4d794a76ce507921515e544d4abb339572ad82dbb9d9da8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-010",
+   "short": "Ley 10/2007, de 29 de marzo",
+   "title": "Ley 10/2007, de 29 de marzo, de Medios Audiovisuales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10029",
+   "versions": [
+    {
+     "from": "2007-04-20",
+     "units": 60,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10029",
+     "sha256": "e19aca9196fbf8e6f51f6e5066747a8e791514a4fc8c808f32c22d1f0bd65fcf"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10029",
+     "sha256": "e19aca9196fbf8e6f51f6e5066747a8e791514a4fc8c808f32c22d1f0bd65fcf"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10029",
+     "sha256": "e19aca9196fbf8e6f51f6e5066747a8e791514a4fc8c808f32c22d1f0bd65fcf"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10029",
+     "sha256": "e19aca9196fbf8e6f51f6e5066747a8e791514a4fc8c808f32c22d1f0bd65fcf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-011",
+   "short": "Ley 11/2007, de 29 de marzo",
+   "title": "Ley 11/2007, de 29 de marzo, de creación del Organismo Autónomo Espacios Naturales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10030",
+   "versions": [
+    {
+     "from": "2007-05-09",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-10030",
+     "sha256": "c36a3636d3b8c05bdf0c98ecdff15ff54a299d19aadcf10c7c822a4a15aa67c8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-001",
+   "short": "Ley 1/2008, de 17 de abril",
+   "title": "Ley 1/2008, de 17 de abril, de creación de la Empresa Pública de Gestión de Suelo de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-13683",
+   "versions": [
+    {
+     "from": "2008-04-29",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13683",
+     "sha256": "0be0000f147e3b1715a4a4b1cdd01064778c55b532b879165987a372a4f3727e"
+    },
+    {
+     "from": "2011-09-22",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13683",
+     "sha256": "0be0000f147e3b1715a4a4b1cdd01064778c55b532b879165987a372a4f3727e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-003",
+   "short": "Ley 3/2008, de 12 de junio",
+   "title": "Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-13685",
+   "versions": [
+    {
+     "from": "2008-07-13",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    },
+    {
+     "from": "2009-12-24",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 125,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    },
+    {
+     "from": "2023-04-03",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 126,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 130,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13685",
+     "sha256": "227949a25a7508bdfa9b4a145aa823927345b31f81dad7e2eb4dd66ed282515d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-004",
+   "short": "Ley 4/2008, de 12 de junio",
+   "title": "Ley 4/2008, de 12 de junio, de creación del Colegio Oficial de Dietistas-Nutricionistas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2008-13686",
+   "versions": [
+    {
+     "from": "2008-07-13",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2008-13686",
+     "sha256": "f98ef71cb1eaf867dd6c0bc751d147607f362762132088c1bda8d34a8960d6f0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2008-007",
+   "short": "Ley 7/2008, de 13 de noviembre",
+   "title": "Ley 7/2008, de 13 de noviembre, de Regulación de Tasas en materia de Industria, Energía y Minas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-8665",
+   "versions": [
+    {
+     "from": "2008-12-27",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    },
+    {
+     "from": "2012-04-28",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-8665",
+     "sha256": "600a02d6c0d5adf81abfbea92ba769d1e47d1a762d75b653e881502a0977908b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-003",
+   "short": "Ley 3/2009, de 24 de septiembre",
+   "title": "Ley 3/2009, de 24 de septiembre, de Creación del Colegio Oficial de Profesionales en Ingeniería Química de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2009-16733",
+   "versions": [
+    {
+     "from": "2009-10-03",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2009-16733",
+     "sha256": "286b6bc8de4c01b86bac378eb06498068fd3430a4fc4bead3a04170d537482f5"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-001",
+   "short": "Ley 1/2010, de 11 de marzo",
+   "title": "Ley 1/2010, de 11 de marzo, de regulación de la tasa para la concesión de la etiqueta ecológica en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-11730",
+   "versions": [
+    {
+     "from": "2010-04-07",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11730",
+     "sha256": "8d955ecd628f01a2b480f3e86e8ab37eb65cc413b5ae6c2bf437401c1cc66b5d"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11730",
+     "sha256": "8d955ecd628f01a2b480f3e86e8ab37eb65cc413b5ae6c2bf437401c1cc66b5d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-002",
+   "short": "Ley 2/2010, de 13 de mayo",
+   "title": "Ley 2/2010, de 13 de mayo, de comercio de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-11731",
+   "versions": [
+    {
+     "from": "2010-05-22",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11731",
+     "sha256": "86a718e8f96a4c7b8e38a577bb3893b2f42c0d99a889bff62cf256e23516f199"
+    },
+    {
+     "from": "2013-03-28",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11731",
+     "sha256": "86a718e8f96a4c7b8e38a577bb3893b2f42c0d99a889bff62cf256e23516f199"
+    },
+    {
+     "from": "2014-12-23",
+     "units": 85,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-11731",
+     "sha256": "86a718e8f96a4c7b8e38a577bb3893b2f42c0d99a889bff62cf256e23516f199"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-005",
+   "short": "Ley 5/2010, de 24 de junio",
+   "title": "Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-15622",
+   "versions": [
+    {
+     "from": "2011-01-09",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15622",
+     "sha256": "691bc4d50b0ed5def6e4de17fdc8c16f4bd26398b14db56ce4bcb2af49a8a03d"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 75,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15622",
+     "sha256": "691bc4d50b0ed5def6e4de17fdc8c16f4bd26398b14db56ce4bcb2af49a8a03d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-006",
+   "short": "Ley 6/2010, de 24 de junio",
+   "title": "Ley 6/2010, de 24 de junio, de creación de las categorías de personal estatutario de inspección y evaluación de servicios sanitarios y prestaciones.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-15623",
+   "versions": [
+    {
+     "from": "2010-07-10",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15623",
+     "sha256": "6701a86bba41ae94085e79685201e656975e702bab46f39d72af3c7f419b8b5c"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15623",
+     "sha256": "6701a86bba41ae94085e79685201e656975e702bab46f39d72af3c7f419b8b5c"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15623",
+     "sha256": "6701a86bba41ae94085e79685201e656975e702bab46f39d72af3c7f419b8b5c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-007",
+   "short": "Ley 7/2010, de 20 de julio",
+   "title": "Ley 7/2010, de 20 de julio, de Educación de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-15624",
+   "versions": [
+    {
+     "from": "2010-08-17",
+     "units": 193,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15624",
+     "sha256": "76097400159aea76c6e32ff5bf7c7f1c6579ce5e051f1784cb26c4a048439510"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 193,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15624",
+     "sha256": "76097400159aea76c6e32ff5bf7c7f1c6579ce5e051f1784cb26c4a048439510"
+    },
+    {
+     "from": "2012-08-07",
+     "units": 193,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15624",
+     "sha256": "76097400159aea76c6e32ff5bf7c7f1c6579ce5e051f1784cb26c4a048439510"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 193,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15624",
+     "sha256": "76097400159aea76c6e32ff5bf7c7f1c6579ce5e051f1784cb26c4a048439510"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 193,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-15624",
+     "sha256": "76097400159aea76c6e32ff5bf7c7f1c6579ce5e051f1784cb26c4a048439510"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-010",
+   "short": "Ley 10/2010, de 21 de octubre",
+   "title": "Ley 10/2010, de 21 de octubre, de promoción de la seguridad y salud en el trabajo en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2706",
+   "versions": [
+    {
+     "from": "2010-11-22",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2706",
+     "sha256": "0356466eab9d5fdc0909ae14c3b301fce61ad965c4fdf21871c087ae41d460f7"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 37,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2706",
+     "sha256": "0356466eab9d5fdc0909ae14c3b301fce61ad965c4fdf21871c087ae41d460f7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-011",
+   "short": "Ley 11/2010, de 4 de noviembre",
+   "title": "Ley 11/2010, de 4 de noviembre, de Cooperativas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2707",
+   "versions": [
+    {
+     "from": "2011-01-16",
+     "units": 182,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2707",
+     "sha256": "b7f62a4dd7d741aad9e1a254e1c51b7e787cc0fff8698af3f1da56e748706b23"
+    },
+    {
+     "from": "2017-12-31",
+     "units": 186,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2707",
+     "sha256": "b7f62a4dd7d741aad9e1a254e1c51b7e787cc0fff8698af3f1da56e748706b23"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-012",
+   "short": "Ley 12/2010, de 18 de noviembre",
+   "title": "Ley 12/2010, de 18 de noviembre, de igualdad entre mujeres y hombres de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2708",
+   "versions": [
+    {
+     "from": "2010-11-26",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2018-11-15",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2708",
+     "sha256": "500e49a0d563a5c74f77c76579b41d14d523a6b37281d66729335d697972afb9"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2010-014",
+   "short": "Ley 14/2010, de 16 de diciembre",
+   "title": "Ley 14/2010, de 16 de diciembre, de servicios sociales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-2752",
+   "versions": [
+    {
+     "from": "2011-06-30",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2014-10-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2015-01-02",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2020-03-07",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 100,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 101,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-2752",
+     "sha256": "e4fc7dca9c4430b29846f046807d4f91d36e14f86e193960b293155a8442c097"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-002",
+   "short": "Ley 2/2011, de 10 de febrero",
+   "title": "Ley 2/2011, de 10 de febrero, de creación del Colegio Oficial de Terapeutas Ocupacionales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7707",
+   "versions": [
+    {
+     "from": "2011-03-13",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7707",
+     "sha256": "5253e9a87932aadf298eaf03f4bb1d71f4e43b0f751d53efae73a460ed8af31f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-003",
+   "short": "Ley 3/2011, de 24 de febrero",
+   "title": "Ley 3/2011, de 24 de febrero, de la Lectura y de las Bibliotecas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7708",
+   "versions": [
+    {
+     "from": "2011-03-28",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7708",
+     "sha256": "73f594d1f65d79213a9836e0a9d4b2a802cbddd8419c8f649d77807288940e72"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 64,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7708",
+     "sha256": "73f594d1f65d79213a9836e0a9d4b2a802cbddd8419c8f649d77807288940e72"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-004",
+   "short": "Ley 4/2011, de 10 de marzo",
+   "title": "Ley 4/2011, de 10 de marzo, del Empleo Público de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7752",
+   "versions": [
+    {
+     "from": "2011-09-22",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2012-08-07",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2012-12-02",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2013-01-01",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2014-10-01",
+     "units": 211,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 213,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2015-12-17",
+     "units": 213,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 213,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 214,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2018-11-15",
+     "units": 214,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 215,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7752",
+     "sha256": "6f9d14654f244bd580f027278039a8c66736bb1aa6b4e9231dcd16caabbbef2b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-007",
+   "short": "Ley 7/2011, de 21 de marzo",
+   "title": "Ley 7/2011, de 21 de marzo, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7840",
+   "versions": [
+    {
+     "from": "2011-04-20",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7840",
+     "sha256": "17a963a614e69d0710c1515772746b48b308e1481716e5a96103d5631837eb7e"
+    },
+    {
+     "from": "2013-12-19",
+     "units": 65,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7840",
+     "sha256": "17a963a614e69d0710c1515772746b48b308e1481716e5a96103d5631837eb7e"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7840",
+     "sha256": "17a963a614e69d0710c1515772746b48b308e1481716e5a96103d5631837eb7e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-008",
+   "short": "Ley 8/2011, de 21 de marzo",
+   "title": "Ley 8/2011, de 21 de marzo, del Consejo del Agua de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7841",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7841",
+     "sha256": "4b8beb18e7488094a323d30f3281b82c25c0a5bff48f4d9ccb5c674e8b473276"
+    },
+    {
+     "from": "2022-03-20",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7841",
+     "sha256": "4b8beb18e7488094a323d30f3281b82c25c0a5bff48f4d9ccb5c674e8b473276"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-009",
+   "short": "Ley 9/2011, de 21 de marzo",
+   "title": "Ley 9/2011, de 21 de marzo, por la que se crean el canon eólico y el Fondo para el Desarrollo Tecnológico de las Energías Renovables y el Uso Racional de la Energía en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2011-7842",
+   "versions": [
+    {
+     "from": "2011-04-01",
+     "units": 27,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2011-7842",
+     "sha256": "e52c0a63fea715b3a8e1fb824b9ce6e83723ea61426df68bfda0203c851d80a8"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-012",
+   "short": "Ley 12/2011, de 3 de noviembre",
+   "title": "Ley 12/2011, de 3 de noviembre, de supresión del Defensor del Pueblo de Castilla-La Mancha",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-3444",
+   "versions": [
+    {
+     "from": "2011-12-29",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-3444",
+     "sha256": "6f093ce645a7d6629370a7458c66d5a708ba2ed95ec9ac2f66210b9b2e7bda4a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2011-015",
+   "short": "Ley 15/2011, de 15 de diciembre",
+   "title": "Ley 15/2011, de 15 de diciembre, de Emprendedores, Autónomos y Pymes.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-4187",
+   "versions": [
+    {
+     "from": "2012-01-15",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-4187",
+     "sha256": "c70aa108275585761ea160f071e7d4288794f84bbe05ef885802d014a87f0238"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-001",
+   "short": "Ley 1/2012, de 21 de febrero",
+   "title": "Ley 1/2012, de 21 de febrero, de Medidas Complementarias para la Aplicación del Plan de Garantías de Servicios Sociales.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-10756",
+   "versions": [
+    {
+     "from": "2012-03-01",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2012-08-07",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2015-12-17",
+     "units": 44,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2016-01-01",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2016-05-05",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2016-10-31",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2018-12-28",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10756",
+     "sha256": "ab0a5dd8b30e11e5b94400caf108058455fffe02a82568bc1516d38fec1dc27a"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-003",
+   "short": "Ley 3/2012, de 10 de mayo",
+   "title": "Ley 3/2012, de 10 de mayo, de autoridad del profesorado.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-10758",
+   "versions": [
+    {
+     "from": "2012-06-10",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-10758",
+     "sha256": "9d12c4f886cfbe4f1f504c3e66befbc2f8367d2f27100e7eb754c52640fd82e7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-006",
+   "short": "Ley 6/2012, de 2 de agosto",
+   "title": "Ley 6/2012, de 2 de agosto, de acompañamiento de la Ley 1/2012, de 21 de febrero, de Medidas Complementarias para la Aplicación del Plan de Garantía de los Servicios Sociales Básicos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2012-13950",
+   "versions": [
+    {
+     "from": "2012-08-07",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-13950",
+     "sha256": "0df482dd5adb8d7c199a5e5046167fc56942637369cb8d4f9657c80e34f54c28"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-13950",
+     "sha256": "0df482dd5adb8d7c199a5e5046167fc56942637369cb8d4f9657c80e34f54c28"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-13950",
+     "sha256": "0df482dd5adb8d7c199a5e5046167fc56942637369cb8d4f9657c80e34f54c28"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2012-13950",
+     "sha256": "0df482dd5adb8d7c199a5e5046167fc56942637369cb8d4f9657c80e34f54c28"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-009",
+   "short": "Ley 9/2012, de 29 de noviembre",
+   "title": "Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La Mancha y otras medidas tributarias.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-2558",
+   "versions": [
+    {
+     "from": "2012-12-02",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2013-03-28",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2015-06-08",
+     "units": 447,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 480,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 485,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2018-04-15",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 486,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2558",
+     "sha256": "9b45b5979f5295a584489f18c522ee72fdc4514f19a4fa1078a5121ad5bc1e68"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2012-011",
+   "short": "Ley 11/2012, de 21 de diciembre",
+   "title": "Ley 11/2012, de 21 de diciembre, de Estabilidad Presupuestaria y Sostenibilidad Financiera de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-2560",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2560",
+     "sha256": "bddf6e8663c6ade938988be545f61996bb02c1d068b8e42b467c0058822f40db"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2560",
+     "sha256": "bddf6e8663c6ade938988be545f61996bb02c1d068b8e42b467c0058822f40db"
+    },
+    {
+     "from": "2017-09-06",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2560",
+     "sha256": "bddf6e8663c6ade938988be545f61996bb02c1d068b8e42b467c0058822f40db"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-2560",
+     "sha256": "bddf6e8663c6ade938988be545f61996bb02c1d068b8e42b467c0058822f40db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-001",
+   "short": "Ley 1/2013, de 21 de marzo",
+   "title": "Ley 1/2013, de 21 de marzo, de medidas para la dinamización y flexibilización de la actividad comercial y urbanística en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10412",
+   "versions": [
+    {
+     "from": "2013-03-28",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10412",
+     "sha256": "e7c94c0c3b94434697feaa53ea5e35bdc19cae7e6ec24469cfb8ca49ebdd57df"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10412",
+     "sha256": "e7c94c0c3b94434697feaa53ea5e35bdc19cae7e6ec24469cfb8ca49ebdd57df"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-004",
+   "short": "Ley 4/2013, de 16 de mayo",
+   "title": "Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10415",
+   "versions": [
+    {
+     "from": "2013-06-13",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10415",
+     "sha256": "e4fe45019b465f02f140b80701d590b981926144ee886f439c5dd3c3a4050427"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10415",
+     "sha256": "e4fe45019b465f02f140b80701d590b981926144ee886f439c5dd3c3a4050427"
+    },
+    {
+     "from": "2017-09-06",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10415",
+     "sha256": "e4fe45019b465f02f140b80701d590b981926144ee886f439c5dd3c3a4050427"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10415",
+     "sha256": "e4fe45019b465f02f140b80701d590b981926144ee886f439c5dd3c3a4050427"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10415",
+     "sha256": "e4fe45019b465f02f140b80701d590b981926144ee886f439c5dd3c3a4050427"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-005",
+   "short": "Ley 5/2013, de 17 de octubre",
+   "title": "Ley 5/2013, de 17 de octubre, de ordenación del servicio jurídico de la Administración de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1365",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    },
+    {
+     "from": "2015-03-15",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    },
+    {
+     "from": "2023-04-14",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 30,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1365",
+     "sha256": "7878a03f9aeb213a84400cc75a8bfd505c9fd66cc09d6d2e683b3df425567b69"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-008",
+   "short": "Ley 8/2013, de 21 de noviembre",
+   "title": "Ley 8/2013, de 21 de noviembre, de Medidas Tributarias de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1368",
+   "versions": [
+    {
+     "from": "2013-11-30",
+     "units": 13,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 52,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2016-06-01",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2020-01-15",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2022-01-30",
+     "units": 62,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 68,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1368",
+     "sha256": "d53e4cfe959b0ad78abc591739d438c03adbc7088c32e7035fe36afcb53f11ce"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-001",
+   "short": "Ley 1/2014, de 24 de abril",
+   "title": "Ley 1/2014, de 24 de abril, de supresión de la Sindicatura de Cuentas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10664",
+   "versions": [
+    {
+     "from": "2014-06-10",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-10664",
+     "sha256": "fcc9710022eada367019fb052306c4f04b07c254388656cabe9f43aac1f64636"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-002",
+   "short": "Ley 2/2014, de 8 de mayo",
+   "title": "Ley 2/2014, de 8 de mayo, de Museos de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10665",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 78,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-10665",
+     "sha256": "ca496c0c979ebb70e30f31dd9e024654d10b78051313ec05c4649c2cc12eaad1"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-003",
+   "short": "Ley 3/2014, de 21 de julio",
+   "title": "Ley 3/2014, de 21 de julio, de garantía de la atención sanitaria y del ejercicio de la libre elección en las prestaciones del Servicio de Salud de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-10666",
+   "versions": [
+    {
+     "from": "2014-10-01",
+     "units": 17,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-10666",
+     "sha256": "eda14a27837421ff8911c03a93c91b53de329343a619f2d003191011592ff6b3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-007",
+   "short": "Ley 7/2014, de 13 de noviembre",
+   "title": "Ley 7/2014, de 13 de noviembre, de Garantía de los Derechos de las Personas con Discapacidad en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-1626",
+   "versions": [
+    {
+     "from": "2015-01-02",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1626",
+     "sha256": "6f148f977099c107224abb411c948e47e9640d75ded06d01cb6d73567dcedbaf"
+    },
+    {
+     "from": "2019-01-27",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1626",
+     "sha256": "6f148f977099c107224abb411c948e47e9640d75ded06d01cb6d73567dcedbaf"
+    },
+    {
+     "from": "2023-03-16",
+     "units": 103,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1626",
+     "sha256": "6f148f977099c107224abb411c948e47e9640d75ded06d01cb6d73567dcedbaf"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-001",
+   "short": "Ley 1/2015, de 12 de febrero",
+   "title": "Ley 1/2015, de 12 de febrero, del Servicio Regional de Mediación Social y Familiar de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-6875",
+   "versions": [
+    {
+     "from": "2015-03-15",
+     "units": 49,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6875",
+     "sha256": "94dfaeb0bd14788ccc44a23e1ece7338bf953f5df9f736a11ddc8620a88770bd"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-003",
+   "short": "Ley 3/2015, de 5 de marzo",
+   "title": "Ley 3/2015, de 5 de marzo, de Caza de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-6877",
+   "versions": [
+    {
+     "from": "2015-04-01",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6877",
+     "sha256": "49a7bba6aba1d62652f52385c2bbc970ad0ddbc628b635bee8c9efffcc3ffbe6"
+    },
+    {
+     "from": "2018-04-15",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6877",
+     "sha256": "49a7bba6aba1d62652f52385c2bbc970ad0ddbc628b635bee8c9efffcc3ffbe6"
+    },
+    {
+     "from": "2019-07-08",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6877",
+     "sha256": "49a7bba6aba1d62652f52385c2bbc970ad0ddbc628b635bee8c9efffcc3ffbe6"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 111,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6877",
+     "sha256": "49a7bba6aba1d62652f52385c2bbc970ad0ddbc628b635bee8c9efffcc3ffbe6"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 115,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6877",
+     "sha256": "49a7bba6aba1d62652f52385c2bbc970ad0ddbc628b635bee8c9efffcc3ffbe6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-004",
+   "short": "Ley 4/2015, de 26 de marzo",
+   "title": "Ley 4/2015, de 26 de marzo, por la que se crea el Instituto Regional de Investigación y Desarrollo Agroalimentario y Forestal de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-6878",
+   "versions": [
+    {
+     "from": "2015-06-08",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6878",
+     "sha256": "4d5b0cbfe1b72b53a5a6e537ebb4763864a7e78e7b560fdf3c806144868ce114"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6878",
+     "sha256": "4d5b0cbfe1b72b53a5a6e537ebb4763864a7e78e7b560fdf3c806144868ce114"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6878",
+     "sha256": "4d5b0cbfe1b72b53a5a6e537ebb4763864a7e78e7b560fdf3c806144868ce114"
+    },
+    {
+     "from": "2022-08-31",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6878",
+     "sha256": "4d5b0cbfe1b72b53a5a6e537ebb4763864a7e78e7b560fdf3c806144868ce114"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-005",
+   "short": "Ley 5/2015, de 26 de marzo",
+   "title": "Ley 5/2015, de 26 de marzo, de la Actividad Física y el Deporte de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-6879",
+   "versions": [
+    {
+     "from": "2015-04-28",
+     "units": 143,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-6879",
+     "sha256": "cd4435dbed04aeb519470482ccf310e77667a6724cda21b6b10baacec3fbe886"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2015-008",
+   "short": "Ley 8/2015, de 2 de diciembre",
+   "title": "Ley 8/2015, de 2 de diciembre, de medidas para la garantía y continuidad en Castilla-La Mancha de los servicios públicos como consecuencia de la entrada en vigor de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-6722",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-6722",
+     "sha256": "810981eab957c328fec34ab7ad18636005ca297d3c206d77d54605060fe5d17e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-004",
+   "short": "Ley 4/2016, de 15 de diciembre",
+   "title": "Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-1373",
+   "versions": [
+    {
+     "from": "2017-01-30",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-1373",
+     "sha256": "e4a81c9fb054bb61fcc4efc672e722ee96dbe4916685287d2f1cf58bd1e6e228"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-1373",
+     "sha256": "e4a81c9fb054bb61fcc4efc672e722ee96dbe4916685287d2f1cf58bd1e6e228"
+    },
+    {
+     "from": "2024-08-30",
+     "units": 81,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-1373",
+     "sha256": "e4a81c9fb054bb61fcc4efc672e722ee96dbe4916685287d2f1cf58bd1e6e228"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-001",
+   "short": "Ley 1/2017, de 9 de marzo",
+   "title": "Ley 1/2017, de 9 de marzo, por la que se establecen medidas adicionales de protección de la salud pública y del medio ambiente para la exploración, investigación o explotación de hidrocarburos utilizando la técnica de la fractura hidráulica.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-5086",
+   "versions": [
+    {
+     "from": "2017-04-12",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5086",
+     "sha256": "aa606d41f7deeadc3bdffdf9a5fd4337de2f7c44e40268e237a20990a43e0a3d"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5086",
+     "sha256": "aa606d41f7deeadc3bdffdf9a5fd4337de2f7c44e40268e237a20990a43e0a3d"
+    },
+    {
+     "from": "2018-07-07",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5086",
+     "sha256": "aa606d41f7deeadc3bdffdf9a5fd4337de2f7c44e40268e237a20990a43e0a3d"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 12,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-5086",
+     "sha256": "aa606d41f7deeadc3bdffdf9a5fd4337de2f7c44e40268e237a20990a43e0a3d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-003",
+   "short": "Ley 3/2017, de 1 de septiembre",
+   "title": "Ley 3/2017, de 1 de septiembre, en materia de gestión y organización de la Administración y otras medidas administrativas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2017-11784",
+   "versions": [
+    {
+     "from": "2017-09-26",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-11784",
+     "sha256": "505145f0f8a0e7d0d73e7b42a190d931722ca288265471eb381bab8dfaa4eb25"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 20,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2017-11784",
+     "sha256": "505145f0f8a0e7d0d73e7b42a190d931722ca288265471eb381bab8dfaa4eb25"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-004",
+   "short": "Ley 4/2017, de 30 de noviembre",
+   "title": "Ley 4/2017, de 30 de noviembre, de Microempresas Cooperativas y Cooperativas Rurales de Castilla-La Mancha y por la que se modifica la Ley 11/2010, de 4 de noviembre, de Cooperativas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-986",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-986",
+     "sha256": "f3fe33ed50eccaa627d55c2224b064bd39cefd0d59617bec2dc416764a561fd0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-005",
+   "short": "Ley 5/2017, de 30 de noviembre",
+   "title": "Ley 5/2017, de 30 de noviembre, de Estímulo Económico de Zonas Prioritarias en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-987",
+   "versions": [
+    {
+     "from": "2017-12-31",
+     "units": 14,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-987",
+     "sha256": "c64ab9a9e76ef37713feb2b244d9b1129fdabe56af822248fed7937197923cb0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2017-006",
+   "short": "Ley 6/2017, de 14 de diciembre",
+   "title": "Ley 6/2017, de 14 de diciembre, de Cámaras Oficiales de Comercio, Industria y Servicios de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-988",
+   "versions": [
+    {
+     "from": "2017-12-22",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-988",
+     "sha256": "ddfe8a93398ad91f1401710f22f03e9221d3d81272c77e60d2950e04838fd2cc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-003",
+   "short": "Ley 3/2018, de 24 de mayo",
+   "title": "Ley 3/2018, de 24 de mayo, de protección y apoyo garantizado para personas con discapacidad en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-9415",
+   "versions": [
+    {
+     "from": "2018-07-06",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-9415",
+     "sha256": "db3d620f11bb8916cf612cac5684431ff3b8122c9cb6921a79c05a47c0b72bb7"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-004",
+   "short": "Ley 4/2018, de 8 de octubre",
+   "title": "Ley 4/2018, de 8 de octubre, para una Sociedad Libre de Violencia de Género en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2018-17065",
+   "versions": [
+    {
+     "from": "2018-11-15",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    },
+    {
+     "from": "2024-06-21",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-17065",
+     "sha256": "8ac04bd3caf45965efc52b49b95bede0675ed96bf1ff96a7ea1141ce9189cae2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2018-005",
+   "short": "Ley 5/2018, de 21 de diciembre",
+   "title": "Ley 5/2018, de 21 de diciembre, de acceso al entorno de las personas con discapacidad acompañadas de perros de asistencia.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-1695",
+   "versions": [
+    {
+     "from": "2019-01-16",
+     "units": 47,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1695",
+     "sha256": "60ff4f36f9c40b3428116a853334a1a8fb0494789af812b21f1ed02694651c7b"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-1695",
+     "sha256": "60ff4f36f9c40b3428116a853334a1a8fb0494789af812b21f1ed02694651c7b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-002",
+   "short": "Ley 2/2019, de 15 de marzo",
+   "title": "Ley 2/2019, de 15 de marzo, de Academias de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-5483",
+   "versions": [
+    {
+     "from": "2019-04-15",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-5483",
+     "sha256": "d588ae477f025013371daa529c5c698bada7b160027b4d106dd9c1384a3fca48"
+    },
+    {
+     "from": "2025-02-19",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-5483",
+     "sha256": "d588ae477f025013371daa529c5c698bada7b160027b4d106dd9c1384a3fca48"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-003",
+   "short": "Ley 3/2019, de 22 de marzo",
+   "title": "Ley 3/2019, de 22 de marzo, del Estatuto de las Personas Consumidoras en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2019-6772",
+   "versions": [
+    {
+     "from": "2019-05-01",
+     "units": 174,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2019-6772",
+     "sha256": "d39b25bcaa62a721bd945931a1896784654cb1a7c5f7f486f5a7cf49e94d3e1b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-006",
+   "short": "Ley 6/2019, de 25 de noviembre",
+   "title": "Ley 6/2019, de 25 de noviembre, del Estatuto de las Mujeres Rurales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1533",
+   "versions": [
+    {
+     "from": "2019-12-18",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1533",
+     "sha256": "9767157050a1f26de73ee9a57241be32db32df293ae1ea39e9431f302d2d9a80"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 26,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1533",
+     "sha256": "9767157050a1f26de73ee9a57241be32db32df293ae1ea39e9431f302d2d9a80"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-007",
+   "short": "Ley 7/2019, de 29 de noviembre",
+   "title": "Ley 7/2019, de 29 de noviembre, de Economía Circular de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1534",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1534",
+     "sha256": "d5671877a5370d72f47c868ea21ca5dbe318072f6f4ea802ad38e078fb456362"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1534",
+     "sha256": "d5671877a5370d72f47c868ea21ca5dbe318072f6f4ea802ad38e078fb456362"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1534",
+     "sha256": "d5671877a5370d72f47c868ea21ca5dbe318072f6f4ea802ad38e078fb456362"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-008",
+   "short": "Ley 8/2019, de 13 de diciembre",
+   "title": "Ley 8/2019, de 13 de diciembre, de Participación de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1654",
+   "versions": [
+    {
+     "from": "2020-06-26",
+     "units": 48,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1654",
+     "sha256": "6d6c9db5471e4435e7555a1b8edffe18f5a73935ef26f384fd4170818a1cbf82"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-009",
+   "short": "Ley 9/2019, de 13 de diciembre",
+   "title": "Ley 9/2019, de 13 de diciembre, de Mecenazgo Cultural de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-1655",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1655",
+     "sha256": "95b5658dbdd789d1b7ce95af60b08c12450c7361092ac4d96b48944bdf62be05"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 32,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1655",
+     "sha256": "95b5658dbdd789d1b7ce95af60b08c12450c7361092ac4d96b48944bdf62be05"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 34,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-1655",
+     "sha256": "95b5658dbdd789d1b7ce95af60b08c12450c7361092ac4d96b48944bdf62be05"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2019-010",
+   "short": "Ley 10/2019, de 20 de diciembre",
+   "title": "Ley 10/2019, de 20 de diciembre, de Presupuestos Generales de la Junta de Comunidades de Castilla-La Mancha para 2020.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-2113",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-2113",
+     "sha256": "49b5296b9f28681d4547d3d081377a46b6e6ea1df28029855c7f33f5ed707579"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-2113",
+     "sha256": "49b5296b9f28681d4547d3d081377a46b6e6ea1df28029855c7f33f5ed707579"
+    },
+    {
+     "from": "2022-03-10",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-2113",
+     "sha256": "49b5296b9f28681d4547d3d081377a46b6e6ea1df28029855c7f33f5ed707579"
+    },
+    {
+     "from": "2022-03-25",
+     "units": 106,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-2113",
+     "sha256": "49b5296b9f28681d4547d3d081377a46b6e6ea1df28029855c7f33f5ed707579"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-001",
+   "short": "Ley 1/2020, de 3 de febrero",
+   "title": "Ley 1/2020, de 3 de febrero, del Tercer Sector Social de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4473",
+   "versions": [
+    {
+     "from": "2020-03-07",
+     "units": 23,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4473",
+     "sha256": "49c4c32a073d49b14d924b2aff49ef404237c9e9d5a4e2e1e8f9484c82af9e03"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-002",
+   "short": "Ley 2/2020, de 7 de febrero",
+   "title": "Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-4474",
+   "versions": [
+    {
+     "from": "2020-03-04",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4474",
+     "sha256": "2a4aa8b90ae2fe38d1311f9007eba62550d920125c4b20ae282313bf6e4003b0"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4474",
+     "sha256": "2a4aa8b90ae2fe38d1311f9007eba62550d920125c4b20ae282313bf6e4003b0"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 83,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4474",
+     "sha256": "2a4aa8b90ae2fe38d1311f9007eba62550d920125c4b20ae282313bf6e4003b0"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 84,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4474",
+     "sha256": "2a4aa8b90ae2fe38d1311f9007eba62550d920125c4b20ae282313bf6e4003b0"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 88,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-4474",
+     "sha256": "2a4aa8b90ae2fe38d1311f9007eba62550d920125c4b20ae282313bf6e4003b0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-004",
+   "short": "Ley 4/2020, de 10 de julio",
+   "title": "Ley 4/2020, de 10 de julio, de Fomento y Coordinación del Sistema de Investigación, Desarrollo e Innovación de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12769",
+   "versions": [
+    {
+     "from": "2020-08-09",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12769",
+     "sha256": "bfd324b7331919302f9cf26956cba5b2b5038eb21fd7f3ea23e69e498b39d897"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 51,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12769",
+     "sha256": "bfd324b7331919302f9cf26956cba5b2b5038eb21fd7f3ea23e69e498b39d897"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-005",
+   "short": "Ley 5/2020, de 24 de julio",
+   "title": "Ley 5/2020, de 24 de julio, de Medidas Urgentes para la Declaración de Proyectos Prioritarios en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-12770",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    },
+    {
+     "from": "2021-03-17",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 42,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    },
+    {
+     "from": "2023-04-03",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 43,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-12770",
+     "sha256": "5c02a113f69330ad2e1ea5323a664206b204bc54ceac2a8071a8f8c2383a1a9b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-007",
+   "short": "Ley 7/2020, de 31 de agosto",
+   "title": "Ley 7/2020, de 31 de agosto, de Bienestar, Protección y Defensa de los Animales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2020-13916",
+   "versions": [
+    {
+     "from": "2021-03-07",
+     "units": 59,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2020-13916",
+     "sha256": "d808811693d7e9e7e565c9f1b86cedf0fa1f2cc888c89cd484867143d5b160fc"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-008",
+   "short": "Ley 8/2020, de 16 de octubre",
+   "title": "Ley 8/2020, de 16 de octubre, por la que se crea la reserva estratégica de productos sanitarios en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-2848",
+   "versions": [
+    {
+     "from": "2020-11-15",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-2848",
+     "sha256": "dd9511a38a55226792d016ee2b00e55928f0dcef2bc6b21a363f2c131a485425"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-2848",
+     "sha256": "dd9511a38a55226792d016ee2b00e55928f0dcef2bc6b21a363f2c131a485425"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-2848",
+     "sha256": "dd9511a38a55226792d016ee2b00e55928f0dcef2bc6b21a363f2c131a485425"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2020-009",
+   "short": "Ley 9/2020, de 6 de noviembre",
+   "title": "Ley 9/2020, de 6 de noviembre, de Patrimonio de la Junta de Comunidades de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-2849",
+   "versions": [
+    {
+     "from": "2021-02-19",
+     "units": 157,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-2849",
+     "sha256": "c1035bf39851b2c40fb8454ec58917a4365fa7b59a8484f076f1bceacb1a0371"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-002",
+   "short": "Ley 2/2021, de 7 de mayo",
+   "title": "Ley 2/2021, de 7 de mayo, de Medidas Económicas, Sociales y Tributarias frente a la Despoblación y para el Desarrollo del Medio Rural en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11513",
+   "versions": [
+    {
+     "from": "2021-06-01",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11513",
+     "sha256": "08c0db1c14b994e77a2bfeb52b7da56e7eac9219bac793670f35687ae1891a7c"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11513",
+     "sha256": "08c0db1c14b994e77a2bfeb52b7da56e7eac9219bac793670f35687ae1891a7c"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11513",
+     "sha256": "08c0db1c14b994e77a2bfeb52b7da56e7eac9219bac793670f35687ae1891a7c"
+    },
+    {
+     "from": "2023-04-03",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11513",
+     "sha256": "08c0db1c14b994e77a2bfeb52b7da56e7eac9219bac793670f35687ae1891a7c"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 99,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11513",
+     "sha256": "08c0db1c14b994e77a2bfeb52b7da56e7eac9219bac793670f35687ae1891a7c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-003",
+   "short": "Ley 3/2021, de 28 de mayo",
+   "title": "Ley 3/2021, de 28 de mayo, por la que se crea el Colegio Oficial de Licenciados y Graduados en Ciencias Ambientales de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-11514",
+   "versions": [
+    {
+     "from": "2021-06-29",
+     "units": 10,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-11514",
+     "sha256": "c149054c90a6dc7b2dae67b3c42a9026737aa76263386955ac2a9e21baec6b86"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-004",
+   "short": "Ley 4/2021, de 25 de junio",
+   "title": "Ley 4/2021, de 25 de junio, de Medidas Urgentes de Agilización y Simplificación de Procedimientos para la Gestión y Ejecución de los Fondos Europeos de Recuperación.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18038",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 66,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18038",
+     "sha256": "a0edd875f6cc22cfaa1c78b52e40c165022ecbb79c4156bd31e10aecb6f8797f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-005",
+   "short": "Ley 5/2021, de 23 de julio",
+   "title": "Ley 5/2021, de 23 de julio, del Régimen Administrativo y Fiscal del Juego en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-18039",
+   "versions": [
+    {
+     "from": "2022-01-30",
+     "units": 67,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18039",
+     "sha256": "2a837c8ac304157bf14b9c03f865d79c47d73b4da7aab1d6a3ae0d2928c7cf0d"
+    },
+    {
+     "from": "2022-07-01",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18039",
+     "sha256": "2a837c8ac304157bf14b9c03f865d79c47d73b4da7aab1d6a3ae0d2928c7cf0d"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18039",
+     "sha256": "2a837c8ac304157bf14b9c03f865d79c47d73b4da7aab1d6a3ae0d2928c7cf0d"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2021-18039",
+     "sha256": "2a837c8ac304157bf14b9c03f865d79c47d73b4da7aab1d6a3ae0d2928c7cf0d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-006",
+   "short": "Ley 6/2021, de 5 de noviembre",
+   "title": "Ley 6/2021, de 5 de noviembre, de extinción de cámaras agrarias provinciales de Castilla-La Mancha y por la que se establece el régimen jurídico para realizar transmisiones de patrimonio procedentes del Instituto de Reforma y Desarrollo Agrario.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-2541",
+   "versions": [
+    {
+     "from": "2021-12-02",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-2541",
+     "sha256": "17430ad32bd169bb21f2ef815f03829ec8f5e01b8f40c4583f7306693c2f75db"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-2541",
+     "sha256": "17430ad32bd169bb21f2ef815f03829ec8f5e01b8f40c4583f7306693c2f75db"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2021-007",
+   "short": "Ley 7/2021, de 3 de diciembre",
+   "title": "Ley 7/2021, de 3 de diciembre, de la Cámara de Cuentas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-2542",
+   "versions": [
+    {
+     "from": "2022-01-02",
+     "units": 55,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-2542",
+     "sha256": "79e8745cba6b73b7a1e2add8d4701e7d669a58492906d93a684e54d6639e9b0f"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-001",
+   "short": "Ley 1/2022, de 14 de enero",
+   "title": "Ley 1/2022, de 14 de enero, de Medidas Tributarias y Administrativas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-4919",
+   "versions": [
+    {
+     "from": "2022-02-08",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4919",
+     "sha256": "d06ca0744d87d11d511fb34bd133b448cacaf5377d76987f65a066ecb40c7dff"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 18,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4919",
+     "sha256": "d06ca0744d87d11d511fb34bd133b448cacaf5377d76987f65a066ecb40c7dff"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-002",
+   "short": "Ley 2/2022, de 18 de febrero",
+   "title": "Ley 2/2022, de 18 de febrero, de Aguas de la Comunidad Autónoma de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-4920",
+   "versions": [
+    {
+     "from": "2022-03-20",
+     "units": 97,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    },
+    {
+     "from": "2022-04-28",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    },
+    {
+     "from": "2022-08-12",
+     "units": 98,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    },
+    {
+     "from": "2022-08-28",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    },
+    {
+     "from": "2024-09-14",
+     "units": 134,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-4920",
+     "sha256": "aa18adb377e13c994d7f2f24207bc06a1bd9b3edf292f9e373dfb0691e8100a0"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-005",
+   "short": "Ley 5/2022, de 6 de mayo",
+   "title": "Ley 5/2022, de 6 de mayo, de Diversidad Sexual y Derechos LGTBI en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-12291",
+   "versions": [
+    {
+     "from": "2022-06-01",
+     "units": 79,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-12291",
+     "sha256": "5df72c49468b32484e39d8b64b76fd7e10f42891f58c62c7ade4cefe464a9f7b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-006",
+   "short": "Ley 6/2022, de 29 de julio",
+   "title": "Ley 6/2022, de 29 de julio, de la Viña y del Vino de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-18151",
+   "versions": [
+    {
+     "from": "2022-08-31",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-18151",
+     "sha256": "d7873f1f75fd3f55c25dfe251e323d4d68ca25f2bcc60f39443ede7babd86b8d"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2022-007",
+   "short": "Ley 7/2022, de 29 de julio",
+   "title": "Ley 7/2022, de 29 de julio, de Medidas para la Agilización Administrativa de los Proyectos de Energías Renovables en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-18152",
+   "versions": [
+    {
+     "from": "2022-08-12",
+     "units": 11,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2022-18152",
+     "sha256": "60c65e76682c3f78093f341d09855b7e63400112adf8bc1e1daa694defef94f6"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-002",
+   "short": "Ley 2/2023, de 10 de febrero",
+   "title": "Ley 2/2023, de 10 de febrero, de Atención Temprana en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5960",
+   "versions": [
+    {
+     "from": "2023-03-16",
+     "units": 29,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-5960",
+     "sha256": "746a795649193e9526131578f714e51c53b174adc9860df3fee65e201d6439d3"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2023-001",
+   "short": "Decreto Legislativo 1/2023, de 28 de febrero",
+   "title": "Decreto Legislativo 1/2023, de 28 de febrero, por el que se aprueba el texto refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística.",
+   "url": "https://www.boe.es/buscar/act.php?id=DOCM-q-2023-90063",
+   "versions": [
+    {
+     "from": "2023-03-26",
+     "units": 235,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2023-90063",
+     "sha256": "c54acfa014e102781c858d094d20d6ccbdd87a934427cc9b1503a08ed0521613"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 255,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2023-90063",
+     "sha256": "c54acfa014e102781c858d094d20d6ccbdd87a934427cc9b1503a08ed0521613"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 256,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2023-90063",
+     "sha256": "c54acfa014e102781c858d094d20d6ccbdd87a934427cc9b1503a08ed0521613"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 257,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2023-90063",
+     "sha256": "c54acfa014e102781c858d094d20d6ccbdd87a934427cc9b1503a08ed0521613"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-007",
+   "short": "Ley 7/2023, de 10 de marzo",
+   "title": "Ley 7/2023, de 10 de marzo, de Atención y Protección a la Infancia y la Adolescencia de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-8710",
+   "versions": [
+    {
+     "from": "2023-04-14",
+     "units": 154,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-8710",
+     "sha256": "55ced9591346e00e692ad8f670ea7b4d00620be8a0c2d84a9d0b2b1e31895a3c"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 154,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-8710",
+     "sha256": "55ced9591346e00e692ad8f670ea7b4d00620be8a0c2d84a9d0b2b1e31895a3c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2023-009",
+   "short": "Ley 9/2023, de 3 de abril",
+   "title": "Ley 9/2023, de 3 de abril, de Agricultura Familiar y de Acceso a la Tierra en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2023-11946",
+   "versions": [
+    {
+     "from": "2023-05-07",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11946",
+     "sha256": "ec8ca3c54c1abeed287350c6e395fbaf76795bb0936b4ba63b610e3280a74b02"
+    },
+    {
+     "from": "2024-03-22",
+     "units": 38,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2023-11946",
+     "sha256": "ec8ca3c54c1abeed287350c6e395fbaf76795bb0936b4ba63b610e3280a74b02"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2024-004",
+   "short": "Ley 4/2024, de 19 de julio",
+   "title": "Ley 4/2024, de 19 de julio, de Integridad Pública de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-4169",
+   "versions": [
+    {
+     "from": "2024-08-30",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-4169",
+     "sha256": "ba8ce32d7139cd3e3e62bf1ef66efe945d6ac36cf6545d7ccc0d66bc459aba5e"
+    },
+    {
+     "from": "2025-04-16",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-4169",
+     "sha256": "ba8ce32d7139cd3e3e62bf1ef66efe945d6ac36cf6545d7ccc0d66bc459aba5e"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-003",
+   "short": "Ley 3/2025, de 6 de junio",
+   "title": "Ley 3/2025, de 6 de junio, de determinación de la representatividad de las organizaciones profesionales agrarias en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-17857",
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "units": 15,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-17857",
+     "sha256": "764b86745d3421ab1929fd7e5428d766e1d684f4e0fc55b14c34570ac1233a64"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2025-004",
+   "short": "Ley 4/2025, de 11 de julio",
+   "title": "Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización Administrativa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2025-18966",
+   "versions": [
+    {
+     "from": "2025-08-06",
+     "units": 89,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2025-18966",
+     "sha256": "75b0b785d2c61fc2a5ab7cab0ac26fa99fb49a360f9fa6021320a58cbaec92e3"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1985-006",
+   "short": "Ley 6/1985, de 13 de noviembre",
+   "title": "Ley 6/1985, de 13 de noviembre, del Patrimonio de la Comunidad Antónoma de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-26400",
+   "versions": [
+    {
+     "from": "1985-12-23",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "1988-01-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "1992-01-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2000-06-21",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2005-01-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2009-01-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2010-12-21",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 71,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    },
+    {
+     "from": "2021-02-19",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1985-26400",
+     "sha256": "3b8bca3cca9180de342df3ae8067ac326cd81707de13cf43aeab708fdcf52fcb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1990-007",
+   "short": "Ley 7/1990, de 28 de diciembre",
+   "title": "Ley 7/1990, de 28 de diciembre, de protección de los animales domésticos.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1991-9406",
+   "versions": [
+    {
+     "from": "1991-03-02",
+     "units": 45,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-9406",
+     "sha256": "7eab33bf7d75cde482017c28a26f4d98377fd3f8bb3ef5cf0c6eb3276d8a77c2"
+    },
+    {
+     "from": "2021-03-07",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1991-9406",
+     "sha256": "7eab33bf7d75cde482017c28a26f4d98377fd3f8bb3ef5cf0c6eb3276d8a77c2"
+    }
+   ]
+  },
+  {
+   "slug": "ley-1996-001",
+   "short": "Ley 1/1996, de 27 de junio",
+   "title": "Ley 1/1996, de 27 de junio, de Cámaras Agrarias de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-19263",
+   "versions": [
+    {
+     "from": "1996-06-29",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1996-19263",
+     "sha256": "1fae963d9a7738fba9a59d503a683c0af19d20371ab1062054372103415ea898"
+    },
+    {
+     "from": "2003-01-01",
+     "units": 36,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1996-19263",
+     "sha256": "1fae963d9a7738fba9a59d503a683c0af19d20371ab1062054372103415ea898"
+    },
+    {
+     "from": "2021-12-02",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-1996-19263",
+     "sha256": "1fae963d9a7738fba9a59d503a683c0af19d20371ab1062054372103415ea898"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2001-005",
+   "short": "Ley 5/2001, de 17 de mayo",
+   "title": "Ley 5/2001, de 17 de mayo, de Prevención de Malos Tratos y de Protección a las Mujeres Maltratadas.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2001-11889",
+   "versions": [
+    {
+     "from": "2001-05-23",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11889",
+     "sha256": "47de023b14d622a28c6d16ee8c705d0a24bc7e508101b92ed31e65a1a315b92b"
+    },
+    {
+     "from": "2010-11-26",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11889",
+     "sha256": "47de023b14d622a28c6d16ee8c705d0a24bc7e508101b92ed31e65a1a315b92b"
+    },
+    {
+     "from": "2012-03-01",
+     "units": 25,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11889",
+     "sha256": "47de023b14d622a28c6d16ee8c705d0a24bc7e508101b92ed31e65a1a315b92b"
+    },
+    {
+     "from": "2018-11-15",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2001-11889",
+     "sha256": "47de023b14d622a28c6d16ee8c705d0a24bc7e508101b92ed31e65a1a315b92b"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2002-012",
+   "short": "Ley 12/2002, de 27 de junio",
+   "title": "Ley 12/2002, de 27 de junio, Reguladora del Ciclo Integral del Agua.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2002-18101",
+   "versions": [
+    {
+     "from": "2002-07-09",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2010-01-20",
+     "units": 76,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2015-01-01",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2016-05-01",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    },
+    {
+     "from": "2022-03-20",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2002-18101",
+     "sha256": "aae87ce0e153cd11a08d3b1ea316fc6ef745113121dfebddbe8f142d749b4214"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2003-007",
+   "short": "Ley 7/2003, de 13 de marzo",
+   "title": "Ley 7/2003, de 13 de marzo, del Consejo Social de la Universidad de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2003-10996",
+   "versions": [
+    {
+     "from": "2003-04-17",
+     "units": 19,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-10996",
+     "sha256": "4cedf39cb0e44d4803410c35e6de9b53cadfdb11f61e3ce393a49cf9964ef524"
+    },
+    {
+     "from": "2025-02-19",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-10996",
+     "sha256": "4cedf39cb0e44d4803410c35e6de9b53cadfdb11f61e3ce393a49cf9964ef524"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2005-011",
+   "short": "Ley 11/2005, de 15 de diciembre",
+   "title": "Ley 11/2005, de 15 de diciembre, del Estatuto del Consumidor.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3155",
+   "versions": [
+    {
+     "from": "2006-01-20",
+     "units": 54,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3155",
+     "sha256": "67b00b6ea3cf3d438d83f1d8f8f950e37a7455b3155a506a6b224d33b286e123"
+    },
+    {
+     "from": "2019-05-01",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2006-3155",
+     "sha256": "67b00b6ea3cf3d438d83f1d8f8f950e37a7455b3155a506a6b224d33b286e123"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2007-004",
+   "short": "Ley 4/2007, de 8 de marzo",
+   "title": "Ley 4/2007, de 8 de marzo, de Evaluación Ambiental en Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-9939",
+   "versions": [
+    {
+     "from": "2007-04-09",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9939",
+     "sha256": "24e74b9de8787454c0df569a4710413c562321c51eaa1d45812efa921061b1ad"
+    },
+    {
+     "from": "2008-07-13",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9939",
+     "sha256": "24e74b9de8787454c0df569a4710413c562321c51eaa1d45812efa921061b1ad"
+    },
+    {
+     "from": "2010-04-07",
+     "units": 63,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9939",
+     "sha256": "24e74b9de8787454c0df569a4710413c562321c51eaa1d45812efa921061b1ad"
+    },
+    {
+     "from": "2020-03-04",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2007-9939",
+     "sha256": "24e74b9de8787454c0df569a4710413c562321c51eaa1d45812efa921061b1ad"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-004",
+   "short": "Ley 4/2009, de 15 de octubre",
+   "title": "Ley 4/2009, de 15 de octubre, de Cámaras Oficiales de Comercio e Industria de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-16090",
+   "versions": [
+    {
+     "from": "2009-10-30",
+     "units": 57,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-16090",
+     "sha256": "156a356d95623ba0dbd9ec3a918f57beda3cdc50b6a41cacf58eec7525f04f08"
+    },
+    {
+     "from": "2017-12-22",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-16090",
+     "sha256": "156a356d95623ba0dbd9ec3a918f57beda3cdc50b6a41cacf58eec7525f04f08"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2009-006",
+   "short": "Ley 6/2009, de 17 de diciembre",
+   "title": "Ley 6/2009, de 17 de diciembre, por la que se crea la Agencia del Agua de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2010-16092",
+   "versions": [
+    {
+     "from": "2010-01-20",
+     "units": 24,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-16092",
+     "sha256": "9cfb8f05f74c0ce71876f99ebb746d2560f097a6595b82b241709afdc6fcfe26"
+    },
+    {
+     "from": "2022-03-20",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2010-16092",
+     "sha256": "9cfb8f05f74c0ce71876f99ebb746d2560f097a6595b82b241709afdc6fcfe26"
+    }
+   ]
+  },
+  {
+   "slug": "decreto-legislativo-2010-001",
+   "short": "Decreto Legislativo 1/2010, de 18 de mayo",
+   "title": "Decreto Legislativo 1/2010, de 18 de mayo, por el que se aprueba el texto refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística.",
+   "url": "https://www.boe.es/buscar/act.php?id=DOCM-q-2010-90043",
+   "versions": [
+    {
+     "from": "2010-06-10",
+     "units": 223,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2013-03-28",
+     "units": 223,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2014-12-23",
+     "units": 223,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 224,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2017-04-12",
+     "units": 224,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 224,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 224,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2018-07-07",
+     "units": 224,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 225,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2021-03-17",
+     "units": 234,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2022-02-08",
+     "units": 234,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    },
+    {
+     "from": "2023-03-26",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/DOCM-q-2010-90043",
+     "sha256": "0c912f0283c6f46b341737b3ec4360373877ff3d06a38cc442408dd1c15ca175"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-002",
+   "short": "Ley 2/2013, de 25 de abril",
+   "title": "Ley 2/2013, de 25 de abril, del juego y las apuestas de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10413",
+   "versions": [
+    {
+     "from": "2013-11-09",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    },
+    {
+     "from": "2014-01-01",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    },
+    {
+     "from": "2016-05-31",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    },
+    {
+     "from": "2019-12-28",
+     "units": 46,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    },
+    {
+     "from": "2022-01-30",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2013-10413",
+     "sha256": "ec7b795d34cb4d6811c32455486e2cb4cc0281fce65dd89efbe1bfc4c528f4eb"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2013-007",
+   "short": "Ley 7/2013, de 21 de noviembre",
+   "title": "Ley 7/2013, de 21 de noviembre, de adecuación de procedimientos administrativos y reguladora del régimen general de la declaración responsable y comunicación previa.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2014-1367",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1367",
+     "sha256": "3cc42e1816052c0cbaaaa6ace04ed4ea600b03b5c31e0aa61a617f614016028c"
+    },
+    {
+     "from": "2015-04-01",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1367",
+     "sha256": "3cc42e1816052c0cbaaaa6ace04ed4ea600b03b5c31e0aa61a617f614016028c"
+    },
+    {
+     "from": "2017-09-26",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1367",
+     "sha256": "3cc42e1816052c0cbaaaa6ace04ed4ea600b03b5c31e0aa61a617f614016028c"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 16,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1367",
+     "sha256": "3cc42e1816052c0cbaaaa6ace04ed4ea600b03b5c31e0aa61a617f614016028c"
+    },
+    {
+     "from": "2025-08-06",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2014-1367",
+     "sha256": "3cc42e1816052c0cbaaaa6ace04ed4ea600b03b5c31e0aa61a617f614016028c"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2014-005",
+   "short": "Ley 5/2014, de 9 de octubre",
+   "title": "Ley 5/2014, de 9 de octubre, de Protección Social y Jurídica de la Infancia y la Adolescencia de Castilla-La Mancha.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2015-1624",
+   "versions": [
+    {
+     "from": "2014-11-17",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1624",
+     "sha256": "b9d3da9ac9357caa6221616bc5e04e00cbbf919854fed239a99f62e087d0587d"
+    },
+    {
+     "from": "2018-11-15",
+     "units": 144,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1624",
+     "sha256": "b9d3da9ac9357caa6221616bc5e04e00cbbf919854fed239a99f62e087d0587d"
+    },
+    {
+     "from": "2023-04-14",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2015-1624",
+     "sha256": "b9d3da9ac9357caa6221616bc5e04e00cbbf919854fed239a99f62e087d0587d"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "es-cm",
+  "code": "ES-CM",
+  "name": "Castilla-La Mancha",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-castile-la-mancha-law",
+  "build": "built: statute of autonomy and laws (160 norms, 561 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
