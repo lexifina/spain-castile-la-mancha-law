@@ -4,11 +4,11 @@
 
 [English](FRESHNESS.en.md)
 
-Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para España:
+Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). Para Castilla-La Mancha:
 
 ### Legislación consolidada del BOE, comunidades autónomas (datos abiertos) · `spain/castile-la-mancha/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 01:08 UTC**.
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-23 13:53 UTC**.
 - Normas en este repositorio: 161; al día con la fuente: 138; modificadas en la fuente después de la versión de aquí: 23; ya no están en la fuente: 0.
 - Sin publicar: 28 (modificada en la fuente después de la versión de aquí: 23, la fuente aún no ha publicado su texto: 5); sin motivo: 0.
 

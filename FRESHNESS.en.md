@@ -4,11 +4,11 @@
 
 [Español](FRESHNESS.md)
 
-How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Spain:
+How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Castile-La Mancha:
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/castile-la-mancha/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 01:08 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-23 13:53 UTC**.
 - Acts held here: 161; current at the source: 138; changed at the source since the version held here: 23; no longer at the source: 0.
 - Not published: 28 (changed at the source since the version held here: 23, the source has not published its text yet: 5); with no reason: 0.
 

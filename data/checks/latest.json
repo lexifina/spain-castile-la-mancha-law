@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-23T01:09:17Z",
+ "generated": "2026-11-23T14:05:41Z",
  "latest": {
   "boe-autonomico|spain/castile-la-mancha/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "awaiting_text": 5,
@@ -17,11 +17,11 @@
     "repo": 161,
     "source_in_scope": 161
    },
-   "check_id": "es-boe-autonomico-20261123T010813Z",
+   "check_id": "es-boe-autonomico-20261123T135329Z",
    "commits": null,
    "corpus": "spain/castile-la-mancha/acts",
    "error": null,
-   "finished": "2026-11-23T01:08:14Z",
+   "finished": "2026-11-23T13:53:32Z",
    "flags": [
     {
      "detail": "21 norms new or updated at the BOE over 7 days ago are not here in that form",
@@ -29,24 +29,24 @@
     }
    ],
    "gap": 28,
-   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-30; first check: the BOE's entries were recorded as the baseline for the next check",
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 13:46 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261123T134629Z); this repository's data run to 2026-10-30",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 10,
-   "runner": "lawwatch spain (f95b387938)",
+   "requests": 37,
+   "runner": "lawwatch spain (f13b561b4f)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-20T13:08:24Z",
+   "snapshot": "2026-11-23T13:21:37Z",
    "source": "boe-autonomico",
-   "started": "2026-11-23T01:08:13Z",
+   "started": "2026-11-23T13:53:29Z",
    "unexplained": 0,
    "verify": null
   }
