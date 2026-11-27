@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-26T15:26:27Z",
+ "generated": "2026-11-27T15:18:01Z",
  "latest": {
   "boe-autonomico|spain/castile-la-mancha/acts": {
-   "attempt": 8,
+   "attempt": 9,
    "audit": null,
    "census": {
     "awaiting_text": 5,
@@ -17,11 +17,11 @@
     "repo": 161,
     "source_in_scope": 161
    },
-   "check_id": "es-boe-autonomico-20261126T151807Z",
+   "check_id": "es-boe-autonomico-20261127T150958Z",
    "commits": null,
    "corpus": "spain/castile-la-mancha/acts",
    "error": "KeyError: 'backfill'",
-   "finished": "2026-11-26T15:19:20Z",
+   "finished": "2026-11-27T15:11:12Z",
    "flags": [
     {
      "detail": "21 norms new or updated at the BOE over 7 days ago are not here in that form",
@@ -29,7 +29,7 @@
     }
    ],
    "gap": 28,
-   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 15:15 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261126T151459Z); this repository's data run to 2026-10-30",
+   "note": "the BOE's list of 12498 consolidated norms (8873 Estatal, 3625 Autonómico) was read once at 15:05 UTC for the 20 Spanish corpora (check es-boe-autonomico-20261127T150550Z); this repository's data run to 2026-10-30",
    "outcome": "failed",
    "published": {
     "added": [],
@@ -44,9 +44,9 @@
     "changed": [],
     "removed": []
    },
-   "snapshot": "2026-11-26T13:04:42Z",
+   "snapshot": "2026-11-27T13:59:39Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T15:18:07Z",
+   "started": "2026-11-27T15:09:58Z",
    "unexplained": 0,
    "verify": null
   }
